@@ -1,0 +1,81 @@
+ANALISIS WACANA KRITIS 
+==================================================
+HAKIKAT ANALISIS WACANA KRITIS (AWK / CDA)
+==================================================
+
+Analisis Wacana Kritis adalah pendekatan interdisipliner dalam kajian kebahasaan yang memandang wacana (baik lisan maupun tulis) bukan sekadar bentuk linguistik murni, melainkan sebagai bentuk praktik sosial. AWK bertujuan membongkar relasi kuasa, dominasi, ideologi, dan ketimpangan sosial yang tersembunyi di balik penggunaan bahasa dalam berbagai teks, seperti media massa, pidato politik, ikatan hukum, dan teks iklan.
+
+Berbeda dari analisis wacana tradisional yang hanya mendeskripsikan struktur linguistik dan keterkaitan antar-kalimat, AWK menembus batas teks untuk menjelaskan bagaimana bahasa digunakan oleh kelompok dominan untuk melanggengkan kekuasaan dan mempengaruhi persepsi masyarakat.
+
+
+==================================================
+PRINSIP-PRINSIP UTAMA ANALISIS WACANA KRITIS
+==================================================
+
+Karakteristik keilmuan AWK didasari oleh beberapa pandangan mendasar mengenai hubungan bahasa dan masyarakat:
+
+- Wacana Membentuk dan Dibentuk oleh Masyarakat: Bahasa memiliki sifat dialektis. Struktur wacana dipengaruhi oleh kondisi sosial di luarnya, dan pada saat yang sama wacana tersebut turut membentuk realitas sosial, identitas, serta relasi sosial.
+- Kekuasaan Beroperasi Melalui Wacana: Kontrol atas wacana (siapa yang berhak berbicara, topik apa yang boleh diangkat, dan bagaimana peristiwa digambarkan) merupakan bentuk kontrol atas pikiran dan tindakan orang lain.
+- Ideologi Tersirat dalam Teks: Wacana tidak pernah bersifat netral. Pilihan kata, tata bahasa, dan gaya penulisan selalu membawa asumsi, nilai, atau ideologi tertentu yang sering kali dianggap sebagai hal yang wajar (naturalisasi).
+- Bersifat Kritis dan Berpihak: AWK secara eksplisit mengambil posisi untuk membela kelompok-kelompok yang termarginalkan, terintimidasi, atau tertindas oleh ketimpangan wacana dominan.
+- Bersifat Historis: Memahami makna suatu wacana memerlukan pemahaman terhadap konteks sejarah, budaya, dan politik tempat wacana tersebut diproduksi dan dikonsumsi.
+
+
+==================================================
+PENDEKATAN TIGA DIMENSI (NORMAN FAIRCLOUGH)
+==================================================
+
+Model kerangka kerja Norman Fairclough merupakan salah satu pendekatan AWK yang paling populer. Model ini membagi analisis wacana ke dalam tiga tingkatan yang saling terhubung:
+
+- Analisis Teks (Tingkat Mikro): Menganalisis fitur-fitur linguistik internal di dalam teks, seperti pilihan kosakata (diksyun), tata bahasa (transitivitas, penggunaan kalimat pasif), tata susunan kalimat, serta metafora yang digunakan.
+- Analisis Praktik Wacana (Tingkat Meso): Menganalisis proses produksi, penyebaran (distribusi), dan konsumsi teks oleh masyarakat. Fokusnya meliputi siapa pengarangnya, media tempat teks dipublikasikan, serta bagaimana pembaca merespon teks tersebut.
+- Analisis Praktik Sosioculture (Tingkat Makro): Menganalisis konteks sosial, politik, ekonomi, dan budaya yang lebih luas yang memengaruhi lahirnya wacana tersebut, termasuk struktur kekuasaan dan situasi ideologis dalam masyarakat.
+
+
+==================================================
+PENDEKATAN KOGNISI SOSIAL (TEUN A. VAN DIJK)
+==================================================
+
+Model Teun A. van Dijk menghubungkan analisis struktur teks dengan konteks sosial melalui dimensi kognisi sosial. Menurut van Dijk, teks tidak langsung berhubungan dengan struktur sosial, melainkan dimediasi oleh kognisi mental para pembuat dan pembaca teks.
+
+Elemen analisis van Dijk:
+- Struktur Teks: Meliputi struktur makro (tema/topik utama), superstruktur (kerangka atau alur wacana), dan struktur mikro (makna lokal, kata, sintaksis, dan retorika).
+- Kognisi Sosial: Kesadaran mental, skema mental, stereotip, dan prasangka yang dimiliki oleh pembuat teks saat menyusun wacana.
+- Konteks Sosial: Akses kekuasaan dan kontrol sumber daya dalam masyarakat yang memungkinkan kelompok tertentu memproduksi wacana secara dominan.
+
+
+==================================================
+PENDEKATAN SOSIO-HISTORIS DAN SEJARAH (RUTH WODAK)
+==================================================
+
+Model Ruth Wodak (Discourse-Historical Approach / DHA) menekankan pentingnya mengintegrasikan semua informasi latar belakang sejarah ke dalam analisis wacana.
+
+Karakteristik pendekatan Wodak:
+- Analisis Intertekstualitas: Mengamati bagaimana sebuah wacana merujuk, mengutip, atau berinteraksi dengan wacana-wacana lain yang telah muncul sebelumnya.
+- Pemetaan Strategi Argumentasi (Topoi): Menganalisis pola-pola pembuktian atau penafsiran yang digunakan penulis untuk membenarkan tuntutan, klaim, atau stereotip tertentu.
+- Pengungkapan Prasangka: Sering digunakan untuk membongkar wacana rasisme, diskriminasi etnis, xenofobia, dan kejahatan politik melalui pelacakan dokumen-dokumen sejarah.
+
+
+==================================================
+STRATEGI DAN FITUR LINGUISTIK DALAM AWK
+==================================================
+
+Dalam pembedahan teks secara kritis, beberapa fitur linguistik tertentu kerap dianalisis untuk melihat adanya bias atau manipulasi pesan:
+
+- Passivisasi (Nominalisasi): Mengubah kalimat aktif menjadi pasif untuk menghilangkan atau menyembunyikan pelaku utama dari suatu tindakan (misal: "Pendemo ditangkap" tanpa menyebutkan siapa yang menangkap).
+- Marjinalisasi dan Stigmatisasi: Penggunaan julukan atau pilihan kata berkonotasi negatif untuk memojokkan kelompok tertentu dalam berita.
+- Eksklusi dan Inklusi: Memilih untuk memasukkan (menonjolkan) atau mengeluarkan (menghilangkan) aktor-aktor sosial tertentu dalam penceritaan peristiwa.
+- Pemosisian "Kami vs Mereka" (Us vs Them): Strategi pembentukan polarisasi sosial dengan menggambarkan kelompok sendiri secara positif (positive self-presentation) dan kelompok luar/lawan secara negatif (negative other-presentation).
+- Metafora Kritis: Penggunaan pengandaian kata yang dapat mengarahkan emosi dan pandangan publik terhadap suatu isu (misal: menggambarkan gelombang migran sebagai "banjir" atau "invasi").
+
+
+==================================================
+PENERAPAN ANALISIS WACANA KRITIS
+==================================================
+
+AWK dapat diaplikasikan pada berbagai fenomena komunikasi media dan sosial:
+
+- Wacana Berita dan Media Massa: Menganalisis kebiasaan pembingkaian (framing) berita, ketidaknetralan pemilik media, dan konstruksi opini publik.
+- Wacana Politik: Menganalisis pidato kampanye, debat politik, serta kebohongan atau manipulasi bahasa politik untuk menarik simpati pemilih.
+- Wacana Gender: Mengkaji patriarki dan representasi bias gender terhadap perempuan dalam iklan, hukum, atau budaya populer.
+- Wacana Kejahatan dan Hukum: Menganalisis ketimpangan posisi antara terdakwa dan penegak hukum dalam interogasi atau persidangan melalui pilihan tutur yang intimidatif.

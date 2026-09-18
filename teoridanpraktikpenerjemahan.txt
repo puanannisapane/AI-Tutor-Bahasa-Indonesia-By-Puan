@@ -1,0 +1,65 @@
+TEORI DAN PRAKTIK PENERJEMAHAN
+
+==================================================
+HAKIKAT TEORI DAN PRAKTIK PENERJEMAHAN
+==================================================
+
+Penerjemahan adalah proses pengalihan pesan, makna, dan amanat dari bahasa sumber (BSu) ke dalam bahasa sasaran (BSa) dengan memperhatikan kesepadanan makna, kewajaran gaya bahasa, serta konteks sosial-budaya. Penerjemahan bukan sekadar mengganti kata demi kata, melainkan tindakan komunikasi lintas budaya yang menuntut pemahaman mendalam terhadap struktur linguistik dan latar belakang budaya kedua bahasa.
+
+Teori penerjemahan memberikan kerangka kerja teoretis dan prinsip dasar bagi penerjemah, sedangkan praktik penerjemahan merupakan pengaplikasian strategi, teknik, dan intuisi berbahasa dalam menyelesaikan permasalahan nyata pada teks.
+
+
+==================================================
+KONSEP KESEPADANAN (EQUIVALENCE)
+==================================================
+
+Pencarian kesepadanan makna merupakan inti dari seluruh proses penerjemahan:
+
+- Kesepadanan Formal (Formal Equivalence): Berfokus pada bentuk dan struktur teks sumber. Penerjemah berupaya mempertahankan kecocokan tata bahasa, pilihan kata, dan format asli seketat mungkin selama tidak merusak pemahaman BSa.
+- Kesepadanan Dinamis (Dynamic/Functional Equivalence): Dipelopori oleh Eugene Nida, menekankan pada kesamaan respon atau efek emosional pembaca. Teks hasil terjemahan disesuaikan agar terasa wajar, alami, dan mudah dipahami oleh pembaca BSa tanpa terikat kaku pada struktur BSu.
+- Kesepadanan Tekstual dan Pragmatis: Mengutamakan keutuhan kohesi teks serta penyampaian maksud/implikatur tersirat pengarang sesuai dengan norma budaya pembaca sasaran.
+
+
+==================================================
+STRATEGI DAN TEKNIK PENERJEMAHAN
+==================================================
+
+Berbagai cara operasional yang digunakan penerjemah untuk mengatasi perbedaan struktur dan budaya:
+
+- Peminjaman (Borrowing): Mengambil kata dari BSu secara langsung ke BSa, baik tanpa perubahan (peminjaman murni/pure borrowing) maupun disesuaikan dengan ejaan BSa (peminjaman ternaturalisasi).
+- Transposisi (Transposition): Perubahan kategori tata bahasa atau struktur kalimat dari BSu ke BSa (misalnya mengubah kelas kata dari kata kerja menjadi kata benda, atau mengubah kalimat pasif menjadi aktif demi kewajaran).
+- Modulasi (Modulation): Perubahan sudut pandang, fokus, atau kategori pemikiran dalam BSa untuk menyampaikan gagasan yang sama (misalnya mengubah ungkapan negatif menjadi positif).
+- Adaptasi (Adaptation): Mengganti unsur budaya BSu dengan padanan budaya yang dikenal dalam BSa karena fenomena budaya asli tidak ditemukan dalam masyarakat BSa.
+- Padanan Terbiasa (Established Equivalent): Menggunakan istilah atau ungkapan yang sudah baku dan terdaftar dalam kamus resmi BSa.
+
+
+==================================================
+IDEOLOGI PENERJEMAHAN: DOMESTIKASI VS FORENISASI
+==================================================
+
+Dua orientasi ideologis utama yang menentukan arah dan hasil penerjemahan (Lawrence Venuti):
+
+- Domestikasi (Domestication): Ideologi yang berorientasi pada pembaca BSa. Istilah, ungkapan, dan nilai budaya asing disesuaikan dengan standar kebudayaan penerima sehingga hasil terjemahan terasa sangat alami, lancar, dan seolah-olah bukan karya terjemahan.
+- Forenisasi (Foreignization): Ideologi yang berorientasi pada bahasa sumber. Penerjemah secara sengaja mempertahankan nuansa keasingan, keunikan struktur, dan istilah budaya BSu untuk memperkenalkan identitas dan eksotisme budaya asal kepada pembaca BSa.
+
+
+==================================================
+TANTANGAN LINGUISTIK DAN BUKAN LINGUISTIK
+==================================================
+
+Hambatan utama yang sering dihadapi penerjemah dalam proses alih bahasa:
+
+- Ungkapan Idiomatik dan Kiasan: Frasa-frasa yang maknanya tidak dapat diturunkan dari gabungan arti kata penyusunnya secara harfiah, sehingga membutuhkan pencarian padanan fungsional.
+- Kata Bermuatan Budaya (Cultural Unbound Words): Kosakata khusus yang hanya ada dalam budaya BSu (seperti nama makanan tradisional, pakaian adat, atau sistem kekerabatan lokal) yang tidak memiliki padanan langsung dalam BSa.
+- Ambuitas dan Polisemi: Kata atau struktur kalimat dalam BSu yang memiliki makna ganda atau ambigu, sehingga penerjemah harus mengandalkan konteks kalimat secara cermat.
+
+
+==================================================
+EVALUASI KUALITAS TERJEMAHAN
+==================================================
+
+Kriteria standar untuk menguji mutu dan kelayakan hasil penerjemahan (Nababan):
+
+- Keakuratan (Accuracy): Mengukur sejauh mana pesan, data, dan informasi dari teks BSu disampaikan secara tepat dan benar ke dalam BSa tanpa ada penyimpangan, penambahan yang tidak perlu, atau penghilangan makna.
+- Keberterimaan (Acceptability): Mengukur apakah hasil terjemahan sudah sesuai dengan kaidah tata bahasa, kebiasaan, norma, dan kebudayaan BSa sehingga tidak terasa kaku atau aneh.
+- Keterbacaan (Readability): Mengukur kemudahan teks terjemahan untuk dipahami oleh pembaca sasaran saat dibaca secara keseluruhan.

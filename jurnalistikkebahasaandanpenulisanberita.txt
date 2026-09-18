@@ -1,0 +1,67 @@
+JURNALISTIK KEBAHASAAN DAN PENULISAN BERITA
+
+==================================================
+HAKIKAT JURNALISTIK KEBAHASAAN
+==================================================
+
+Jurnalistik Kebahasaan adalah cabang ilmu terapan yang mengkaji pemanfaatan ragam bahasa Indonesia dalam media massa cetak, elektronik, maupun digital. Bahasa jurnalistik memiliki karakter khusus yang membedakannya dari bahasa ilmiah formal maupun bahasa sastra, dengan fokus utama menyampaikan informasi secara akurat, cepat, lugas, dan mudah dipahami oleh masyarakat dari berbagai latar belakang pendidikan.
+
+Penggunaan bahasa dalam pers berfungsi sebagai alat komunikasi massa sekaligus sarana edukasi kebahasaan bagi publik yang berdampak langsung pada perkembangan kosakata dan norma berbahasa sehari-hari.
+
+
+==================================================
+PRINSIP DAN KARAKTERISTIK BAHASA JURNALISTIK
+==================================================
+
+Ciri-ciri utama yang menjadi standar penulisan dalam jurnalistik kebahasaan:
+
+- Lugas dan Ringkas: Menghindari penggunaan kata-kata mubazir (pleonasme), kalimat berbunga-bunga, atau penjelasan yang bertele-tele agar informasi langsung merujuk pada inti masalah.
+- Padat dan Jelas: Setiap kata dan kalimat memuat informasi substantif tanpa menimbulkan kepenggalan logika atau makna ganda (ambigu) bagi pembaca.
+- Sederhana dan Komunikatif: Menggunakan kosakata populer yang dikenal luas oleh masyarakat umum serta meminimalkan penggunaan jargon teknis atau istilah asing yang rumit tanpa penjelasan sederhana.
+- Objektif dan Netral: Menghindari pilihan kata bermuatan emosional, penilaian subjektif penulis, atau majas kiasan yang dapat membiaskan kebenaran fakta.
+
+
+==================================================
+STRUKTUR PENULISAN BERITA (PIRAMIDA TERBALIK)
+==================================================
+
+Konstruksi standar penulisan berita dalam pers yang menempatkan prioritas informasi berdasarkan tingkat kepentingannya:
+
+- Judul Berita (Headline): Menggambarkan inti peristiwa paling krusial secara memikat, ringkas, hemat kata, dan menggunakan kata kerja aktif.
+- Teras Berita (Lead): Paragraf pertama berita yang merangkum elemen-elemen paling penting dari peristiwa, umumnya memuat jawaban atas unsur 5W+1H (Apa, Siapa, Di mana, Kapan, Mengapa, Bagaimana).
+- Tubuh Berita (Body): Bagian penjelas yang menguraikan rincian kronologi, latar belakang kejadian, serta kutipan-kutipan narasumber secara logis.
+- Ekor Berita (Tail): Bagian akhir yang memuat informasi pelengkap atau konteks tambahan yang dapat dipotong oleh penyunting tanpa merusak keutuhan isi berita.
+
+
+==================================================
+TEKNIK PENGUTIPAN DAN SUMBER BERITA
+==================================================
+
+Aturan kebahasaan dalam menyampaikan ucapan dan keterangan narasumber:
+
+- Kutipan Langsung: Menuliskan kembali pernyataan narasumber secara persis sama menggunakan tanda petik ganda tanpa mengubah kata-katanya, untuk menjaga otentisitas dan penekanan emosi ucapan.
+- Kutipan Tidak Langsung: Menyampaikan kembali inti ucapan narasumber menggunakan susunan kalimat penulis sendiri tanpa mengubah makna atau maksud aslinya.
+- Atribusi dan Klarifikasi: Menyebutkan secara pasti nama, jabatan, atau kapasitas narasumber yang memberikan informasi guna menjaga akuntabilitas serta transparansi berita.
+
+
+==================================================
+KESALAHAN KAPRAH DALAM BAHASA JURNALISTIK
+==================================================
+
+Penyimpangan kebahasaan yang sering ditemukan dalam draf berita media massa:
+
+- Penggunaan Kalimat Pasif Berlebihan: Memakai struktur kalimat yang meminimalkan peran subjek atau pelaku utama sehingga berita terasa lambat dan tidak dinamis.
+- Rancu dan Kontaminasi: Percampuran dua struktur tata bahasa yang tidak sepadan (seperti menggabungkan ungkapan "disebabkan karena" atau "sangat... sekali").
+- Sensasionalisme Kata (Gaya Bahasa Bombastis): Pemilihan diksi berlebihan yang hiperbolis untuk memicu perhatian (clickbait) namun mengorbankan ketepatan fakta dan etika berbahasa.
+- Klise Jurnalistik: Penggunaan kata atau frasa yang dipakai berulang-ulang hingga kehilangan daya segarnya (seperti penggunaan frasa "ditemui di tempat terpisah" atau "berhasil dihimpun").
+
+
+==================================================
+ETIKA DAN HUKUM PERS DALAM KEBAHASAAN
+==================================================
+
+Prinsip moral dan batasan hukum dalam memilih kata dan menyusun narasi pers:
+
+- Asas Praduga Tak Bersalah: Keharusan menggunakan kata-kata netral dan non-penghakiman (seperti kata "terduga", "disinyalir", atau "tersangka") sebelum ada keputusan hukum tetap dari pengadilan.
+- Penyensoran Istilah Bermuatan SARA dan Pornografi: Menghindari diksi yang merendahkan suku, agama, ras, gender, atau disabilitas, serta menyamarkan identitas korban kejahatan asusila dan anak di bawah umur.
+- Hak Jawab dan Koreksi Kebahasaan: Kewajiban media untuk segera memperbaiki kesalahan penulisan fakta, ejaan nama, atau kekeliruan kutipan dalam pemberitaan yang telah terbit.

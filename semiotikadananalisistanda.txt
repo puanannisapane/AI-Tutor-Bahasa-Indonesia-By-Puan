@@ -1,0 +1,77 @@
+SEMIOTIKA DAN ANALISIS TANDA
+
+==================================================
+HAKIKAT SEMIOTIKA
+==================================================
+
+Semiotika adalah cabang ilmu yang mengkaji tanda, sistem tanda, serta proses pembentukan makna (semiosis) dalam kehidupan manusia. Semiotika memandang bahwa seluruh fenomena kebudayaan, mulai dari bahasa lisan, tulisan, gambar, gaya pakaian, hingga tradisi ritual, dapat dibaca dan dianalisis sebagai sistem tanda yang menyampaikan pesan tertentu.
+
+Dalam kajian linguistik dan kebudayaan, semiotika membedah bagaimana sebuah objek atau simbol fisik dihubungkan dengan makna mental di dalam pikiran manusia berdasarkan konvensi sosial.
+
+
+==================================================
+MODEL DIKOTOMI TANDA (FERDINAND DE SAUSSURE)
+==================================================
+
+Ferdinand de Saussure memandang tanda sebagai entitas abstrak dua sisi yang tidak terpisahkan, ibarat dua sisi dari selembar kertas.
+
+Komponen tanda Saussurean:
+- Penanda (Signifier / Signifiant): Bentuk fisik dari tanda, seperti bunyi ujaran, huruf-huruf tertulis, atau gambar visual.
+- Petanda (Signified / Signifié): Konsep mental, gambaran pikiran, atau makna yang terbayang saat penanda ditangkap oleh indra.
+
+Sifat Tanda Saussurean:
+- Arbitrer (Manasuka): Hubungan antara penanda dan petanda bersifat bebas dan tidak memiliki ikatan alamiah. Penentuan makna suatu tanda bergantung penuh pada kesepakatan sosial (konvensi) masyarakat penuturnya.
+- Linier: Penanda linguistik beroperasi dalam urutan waktu dan ruang yang bersifat garis lurus.
+
+
+==================================================
+MODEL TRIADIK TANDA (CHARLES SANDERS PEIRCE)
+==================================================
+
+Charles Sanders Peirce mengembangkan pendekatan semiotika pragmatis triadik yang melibatkan tiga elemen saling berinteraksi dalam membentuk makna.
+
+Segitiga Semiosis Peirce:
+- Representamen (Tanda / Sign): Bentuk fisik yang menangkap perhatian manusia dan mewakili sesuatu yang lain.
+- Objek (Object): Realitas, benda, atau hal yang diwakili oleh representamen.
+- Interpretant: Makna atau pemahaman baru yang lahir di dalam pikiran orang yang menangkap representamen tersebut.
+
+Klasifikasi Tanda Peirce (Berdasarkan Hubungan Tanda dengan Objek):
+- Ikon: Tanda yang memiliki kemiripan fisik atau visual secara langsung dengan objek yang diwakilinya. Contoh: Peta wilayah, foto wajah, lukisan pemandangan.
+- Indeks: Tanda yang memiliki hubungan sebab-akibat atau keterkaitan fisik langsung dengan objeknya. Contoh: Asap sebagai indeks dari api, jejak kaki sebagai indeks dari keberadaan orang.
+- Simbol: Tanda yang hubungannya dengan objek didasari oleh hukum, aturan, atau kesepakatan bersama, tanpa ada kemiripan fisik atau hubungan sebab-akibat. Contoh: Bendera negara, huruf alfabet, rambu lalu lintas.
+
+
+==================================================
+SEMIOTIKA KULTUR DAN MITOS (ROLAND BARTHES)
+==================================================
+
+Roland Barthes mengembangkan semiotika Saussurean ke dalam analisis teks media dan kebudayaan populer melalui konsep pemaknaan bertingkat (signifikasi).
+
+Tingkatan Makna Barthes:
+- Denotasi: Makna tingkat pertama yang bersifat literal, objektif, dan sesuai dengan deskripsi fisik tanda (makna eksplisit).
+- Konotasi: Makna tingkat kedua yang dipengaruhi oleh perasaan, emosi, nilai budaya, dan konteks sejarah penafsirnya (makna implisit).
+- Mitos (Myth): Makna konotatif yang telah membeku, terinternalisasi, dan dianggap sebagai kebenaran ilmiah atau hal yang wajar (alamiah) dalam suatu masyarakat, padahal sebenarnya merupakan ideologi buatan kelompok tertentu.
+
+
+==================================================
+SEMIOTIKA VISUAL DAN MEDIA
+==================================================
+
+Semiotika visual mengaplikasikan prinsip-prinsip tanda untuk menganalisis media non-verbal seperti seni rupa, iklan, fotografi, dan film.
+
+Elemen analisis semiotika visual:
+- Spatial / Tata Letak: Posisi elemen visual (atas-bawah, kiri-kanan, depan-belakang) yang menyampaikan hirarki atau pentingnya suatu informasi.
+- Warna: Penggunaan warna untuk mengekspresikan emosi, suasana, atau identitas kultural tertentu (misal merah untuk keberanian atau bahaya).
+- Frame dan Sudut Pandang (Angle): Sudut pengambilan gambar yang menciptakan citra kekuasaan (low angle membuat objek tampak dominan, high angle membuat objek tampak lemah).
+- Intertekstualitas Visual: Penggunaan motif atau simbol dari karya visual kuno/terkenal ke dalam karya media modern untuk memindahkan makna lamanya.
+
+
+==================================================
+PENERAPAN ANALISIS SEMIOTIKA
+==================================================
+
+Semiotika digunakan secara luas sebagai metode penelitian kualitatif dalam berbagai bidang keilmuan:
+
+- Analisis Iklan Komersial: Membongkar cara pembuat iklan menyisipkan janji kebahagiaan, status sosial, atau identitas gender di balik produk yang dijual.
+- Analisis Film dan Sastra: Pembedahan metafora, simbol penokohan, serta ideologi cerita yang tersembunyi dalam adegan atau teks naratif.
+- Analisis Budaya dan Ritual: Memahami simbol-simbol pakaian adat, arsitektur bangunan tradisional, dan tata cara upacara sebagai pesan identitas kolektif.

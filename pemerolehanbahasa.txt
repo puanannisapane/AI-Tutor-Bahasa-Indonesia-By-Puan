@@ -1,0 +1,44 @@
+PEMEROLEHAN BAHASA
+
+==================================================
+HAKIKAT PEMEROLEHAN BAHASA
+==================================================
+
+Pemerolehan Bahasa (Language Acquisition) adalah proses manusia mendapatkan kemampuan untuk menangkap, menghasilkan, dan menggunakan kata-kata untuk berkomunikasi. Proses ini umumnya merujuk pada pemerolehan bahasa pertama (B1) yang terjadi secara alamiah, bawah sadar, dan tanpa pengajaran formal sejak masa kanak-kanak.
+
+Pemerolehan bahasa berbeda dari pembelajaran bahasa (language learning) yang merupakan proses sadar, formal, dan terstruktur, biasanya terjadi saat seseorang mempelajari bahasa kedua (B2) di lingkungan sekolah atau kursus.
+
+
+==================================================
+TEORI-TEORI PEMEROLEHAN BAHASA
+==================================================
+
+Berbagai sudut pandang para ahli dalam menjelaskan mekanisme manusia menguasai bahasa:
+
+- Teori Nativisme (Noam Chomsky): Berpandangan bahwa manusia lahir dengan kemampuan berbahasa bawaan secara biologis melalui Piranti Pemerolehan Bahasa (Language Acquisition Device / LAD) serta Tata Bahasa Universal (Universal Grammar) yang memungkinkan anak menguasai tata bahasa tanpa instruksi langsung.
+- Teori Behaviorisme (B.F. Skinner): Berpendapat bahwa pemerolehan bahasa merupakan hasil dari pembentukan kebiasaan melalui proses stimulus, respons, imitasi, dan penguatan (reinforcement) dari lingkungan sekitar.
+- Teori Kognitivisme (Jean Piaget): Menegaskan bahwa perkembangan bahasa anak berakar pada perkembangan kognitifnya, di mana anak harus memahami konsep lingkungan terlebih dahulu sebelum dapat mengekspresikannya melalui simbol bahasa.
+- Teori Interaksionisme (Lev Vygotsky): Menyoroti perpaduan antara kapasitas biologis bawaan dan interaksi sosial, di mana lingkungan linguistik dan interaksi komunikasi dengan orang dewasa berperan vital sebagai penyangga (scaffolding) perkembangan bahasa anak.
+
+
+==================================================
+TAHAPAN PEMEROLEHAN BAHASA PERTAMA
+==================================================
+
+Fase-fase perkembangan berbahasa anak berdasarkan usia dan kompleksitas kebahasaan:
+
+- Tahap Vokalisasi dan Vokalisasi Pra-linguistik: Dimulai dengan tangisan, vokal tak berartikulasi (cooing), dan dilanjutkan dengan babbling (mengoceh suku kata berulang seperti "ba-ba" atau "ma-ma") sebagai latihan alat ucap.
+- Tahap Holofrastis (Satu Kata): Anak menggunakan satu kata tunggal untuk mewakili satu pemikiran atau kalimat utuh (seperti kata "cucu" yang dapat berarti "aku mau minum susu").
+- Tahap Dua Kata (Telegrafis Awal): Anak mulai menggabungkan dua kata inti untuk menyampaikan hubungan makna dasar (seperti "mama masak" atau "bola besar") tanpa menggunakan kata hubung atau imbuhan.
+- Tahap Kalimat Kompleks (Polisentaksis): Perkembangan pesat tata bahasa di mana anak mulai menguasai struktur kalimat panjang, imbuhan, kata tanya, dan pola negasi secara alami.
+
+
+==================================================
+PEMEROLEHAN BAHASA KEDUA (B2)
+==================================================
+
+Dinamika dan fenomena yang terjadi saat seseorang menguasai bahasa tambahan setelah bahasa pertama:
+
+- Hipotesis Umur Kritis (Critical Period Hypothesis): Gagasan bahwa terdapat batas usia biologis tertentu (sebelum masa pubertas) di mana seseorang dapat memperoleh bahasa secara alami dengan tingkat kemahiran layaknya penutur asli.
+- Bahasa Antara (Interlanguage): Sistem bahasa sementara yang dibangun oleh pembelajar B2 yang berada di antara struktur B1 dan B2, yang mencerminkan pemahaman serta strategi pembelajar terhadap aturan bahasa baru.
+- Transfer Bahasa (Interferensi dan Fasilitasi): Pengaruh struktur B1 terhadap penggunaan B2, yang dapat bersifat negatif (interferensi/kesalahan) jika aturan kedua bahasa berbeda, atau positif jika aturan kedua bahasa selaras.

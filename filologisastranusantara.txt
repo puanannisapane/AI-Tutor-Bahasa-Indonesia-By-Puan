@@ -1,0 +1,63 @@
+FILOLOGI SASTRA NUSANTARA
+
+==================================================
+HAKIKAT FILOLOGI SASTRA NUSANTARA
+==================================================
+
+Filologi Sastra Nusantara adalah disiplin ilmu kebudayaan dan kebahasaan yang secara khusus mengkaji naskah-naskah kuno (manuskrip) peninggalan masa lalu di kawasan Nusantara. Filologi berfokus pada pembacaan, penyuntingan, penafsiran, dan pengungkapan kandungan isi teks kuno untuk merekonstruksi sejarah kebudayaan, pemikiran, tradisi, dan nilai-nilai kehidupan masyarakat Nusantara.
+
+Lahirnya filologi didasari oleh kenyataan bahwa naskah kuno yang ditulis tangan (chirograph) rentan mengalami penyimpangan, kerusakan fisik, atau perubahan isi selama proses penyalinan ulang berulang kali dari zaman ke zaman.
+
+
+==================================================
+OBJEK KAJIAN: NASKAH DAN TEKS
+==================================================
+
+Dalam tradisi filologi, terdapat pembedaan mendasar antara aspek fisik dokumen dan kandungan isinya:
+
+- Naskah (Manuscript / Kodikologi): Benda fisik, wujud konkret, atau dokumen tertulis peninggalan kuno yang dapat dipegang dan dilihat (mencakup bahan, tinta, watermark, dan penjilidan).
+- Teks (Text / Tekstologi): Kandungan isi, gagasan, susunan kata-kata, dan informasi yang tersimpan di dalam naskah tersebut.
+- Media Naskah Nusantara: Keanekaragaman alas tulis tradisional yang digunakan masyarakat kuno Nusantara, seperti daun lontar, nipah, daluwang (kertas kulit kayu), kertas Eropa, bambu, tulang, dan kulit hewan.
+
+
+==================================================
+PENYEBAB VARIASI DAN KESALAHAN TEKS
+==================================================
+
+Prose penyalinan naskah secara manual tanpa mesin cetak melahirkan berbagai variasi bacaan (varian) akibat faktor kesengajaan maupun ketidaksengajaan juru salin:
+
+- Kesalahan Ketidaksengajaan (Involuntary Errors): Terjadi karena keterbatasan penglihatan juru salin, kelelahan, atau kondisi pencahayaan (seperti loncatan mata/dittografi, pengurangan baris/haplografi, atau salah baca huruf yang mirip).
+- Kesalahan Kesengajaan (Voluntary Alterations): Penyuntingan sadar oleh juru salin untuk menyesuaikan isi naskah dengan pandangan politik penguasa setempat, norma agama baru, atau pembaruan dialek bahasa agar lebih mudah dipahami oleh pembaca zamannya.
+
+
+==================================================
+METODE PENYUNTINGAN NASKAH FILOLOGI
+==================================================
+
+Para ahli filologi menggunakan berbagai metode penyuntingan ilmiah sesuai dengan kondisi dan jumlah naskah yang ditemukan:
+
+- Metode Intuisi: Menyunting naskah tunggal dengan cara mengoreksi bagian-bagian yang dianggap salah berdasarkan pengetahuan mendalam peneliti tentang bahasa dan konteks zaman naskah.
+- Metode Gabungan: Digunakan jika semua naskah yang ditemukan memiliki kualitas seimbang. Peneliti menggabungkan bacaan terbaik dari berbagai naskah untuk merekonstruksi satu teks ideal.
+- Metode Landasan (Eksplorasi / Codices Meliores): Memilih satu naskah terbaik sebagai naskah utama (naskah induk), kemudian variasi dari naskah-naskah lain dicantumkan pada bagian catatan kaki (aparat kritik).
+- Metode Stematis (Silsilah / Genealogi): Membandingkan seluruh varian naskah untuk merekonstruksi pohon silsilah (stemma codicum) guna menemukan teks tertua atau teks prototipe yang paling mendekati karangan asli pengarangnya.
+
+
+==================================================
+KODIKOLOGI DAN TEKSTOLOGI
+==================================================
+
+Dua cabang ilmu bantu utama yang mendukung kerja analisis philologist:
+
+- Kodikologi: Ilmu yang mempelajari aspek fisik naskah kuno, seperti bahan penulisan, penanggalan umur kertas/daun, garis tepi, sejarah kepemilikan naskah, tradisi penyalinan, serta tempat naskah disimpan.
+- Tekstologi: Ilmu yang mengkaji sejarah dan pergeseran teks, tradisi penerimaan bacaan, serta evolusi perubahan isi teks dari waktu ke waktu di tengah masyarakat pemiliknya.
+
+
+==================================================
+PERAN FILOLOGI DALAM KAJIAN KEBUTUHAN MODERN
+==================================================
+
+Relevansi keilmuan filologi dalam konteks ilmu pengetahuan modern dan kebudayaan:
+
+- Rekonstruksi Sejarah Budaya: Menyingkap khazanah pengetahuan lokal Nusantara dalam bidang hukum adat, pengobatan tradisional (husada), sains astronomi kuno (pranata mangsa), arsitektur, dan falsafah keagamaan.
+- Penyelamatan Warisan Digital: Digitalisasi naskah-naskah lapuk untuk diarsipkan dalam format citra digital agar terhindar dari ancaman kelembapan, serangga, dan bencana alam.
+- Sumber Bahan Kreatif dan Sastra: Menyediakan referensi cerita rakyat, mitologi, dan legenda kuno yang dapat diolah kembali menjadi bentuk alih wahana modern (seperti novel sejarah, drama panggung, dan adaptasi film).

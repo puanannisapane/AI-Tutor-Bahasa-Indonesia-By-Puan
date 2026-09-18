@@ -1,0 +1,85 @@
+KATEGORI SINTAKTIK DAN PERAN SEMANTIS
+
+==================================================
+HAKIKAT KATEGORI SINTAKTIK DAN PERAN SEMANTIS
+==================================================
+
+Dalam analisis kalimat, terdapat perbedaan mendasar antara kelas/kategori kata (kategori sintaktik), fungsi kata dalam struktur kalimat (fungsi sintaktik), dan makna atau keterlibatan entitas dalam suatu tindakan/peristiwa (peran semantis).
+
+Kategori sintaktik berfokus pada sifat gramatikal kata itu sendiri, sedangkan peran semantis berfokus pada hubungan makna yang dimiliki oleh argumen-argumen (kata benda/frasa) terhadap predikat (verba) di dalam kalimat.
+
+
+==================================================
+KATEGORI SINTAKTIK (SYNTACTIC CATEGORIES)
+==================================================
+
+Kategori sintaktik adalah pengelompokan kata atau frasa berdasarkan perilaku gramatikal, distribusi dalam kalimat, serta bentuk morfologinya (sering disebut kelas kata atau frasa).
+
+Jenis-jenis kategori kata/frasa utama:
+- Nomina (N) / Frasa Nominal (FN): Kata atau frasa yang mengacu pada manusia, hewan, benda, tempat, atau konsep abstrak.
+- Verba (V) / Frasa Verbal (FV): Kata atau frasa yang menyatakan tindakan, proses, keadaan, atau perbuatan.
+- Adjektiva (Adj) / Frasa Adjektival (FAdj): Kata atau frasa yang memberikan sifat, keadaan, atau kualitas pada nomina.
+- Adverbia (Adv) / Frasa Adverbial (FAdv): Kata atau frasa yang memberikan keterangan tambahan pada verba, adjektiva, atau keseluruhan kalimat.
+- Preposisi (Prep) / Frasa Preposisional (FPrep): Kata depan yang menghubungkan nomina dengan bagian kalimat lainnya untuk menunjukkan hubungan ruang, waktu, atau cara.
+- Numeralia (Num): Kata yang menunjukkan bilangan atau jumlah entitas.
+
+
+==================================================
+PEMBEDAAN FUNGSI, KATEGORI, DAN PERAN
+==================================================
+
+Untuk memahami tata bahasa secara utuh, ketiga dimensi analisis kalimat ini harus dipisahkan dengan jelas:
+
+- Fungsi Sintaktik: Hubungan struktural antar-unsur dalam kalimat (Subjek, Predikat, Objek, Pelengkap, Keterangan).
+- Kategori Sintaktik: Kelas kata yang menduduki fungsi tersebut (Nomina, Verba, Adjektiva, Preposisi).
+- Peran Semantis: Makna hubungan antara entitas dengan perbuatannya (Pelaku, Sasaran, Penerima, Alat).
+
+Contoh Analisis:
+Pada kalimat "Polisi menangkap pencuri dengan borgol":
+- Fungsi: Polisi (Subjek), menangkap (Predikat), pencuri (Objek), dengan borgol (Keterangan).
+- Kategori: Polisi (Nomina), menangkap (Verba), pencuri (Nomina), dengan borgol (Frasa Preposisional).
+- Peran: Polisi (Pelaku/Agent), menangkap (Perbuatan), pencuri (Sasaran/Patient), dengan borgol (Alat/Instrument).
+
+
+==================================================
+MACAM-MACAM PERAN SEMANTIS (SEMANTIC ROLES)
+==================================================
+
+Peran semantis menggambarkan keterlibatan partisipan dalam peristiwa yang dinyatakan oleh predikat:
+
+- Pelaku (Agent): Entitas bernyawa yang secara sengaja dan aktif melakukan suatu tindakan atau perbuatan.
+- Pengalam (Experiencer): Entitas bernyawa yang merasakan, mengalami, atau menangkap suatu sensasi emosi, persepsi, atau keadaan mental tanpa melakuakan tindakan fisik secara aktif.
+- Sasaran / Penderita (Patient / Theme): Entitas yang dikenai tindakan, mengalami perubahan status/kondisi, atau dipindahkan oleh tindakan pelaku.
+- Penerima (Recipient): Entitas yang menerima sesuatu dari partisipan lain sebagai hasil dari suatu tindakan.
+- Alat (Instrument): Benda atau media non-manusia yang digunakan oleh pelaku untuk melaksanakan suatu tindakan.
+- Hasil (Result / Factitive): Entitas baru yang tercipta atau terwujud sebagai akibat dari tindakan predikat.
+- Tempat / Lokasi (Location): Posisi atau wilayah ruang terjadinya suatu peristiwa atau keberadaan suatu entitas.
+- Sumber (Source): Titik asal, tempat awal, atau kondisi awal dari mana suatu gerakan/tindakan bermula.
+- Tujuan (Goal): Titik akhir, arah, atau tempat tujuan dari suatu gerakan atau tindakan.
+- Pengguna / Pemilik (Possessor): Entitas yang memiliki atau menguasai suatu benda/objek.
+
+
+==================================================
+HUBUNGAN SINTAKSIS DAN SEMANTIK (VALENSI VERBA)
+==================================================
+
+Kategori sintaktik verba menentukan berapa jumlah argumen (nomina) yang harus hadir dan peran semantis apa yang dapat diikat oleh verba tersebut (valensi/keterikatan verba).
+
+Tipe valensi verba dan peran semantisnya:
+- Verba Monovalen (Intransitif): Hanya membutuhkan satu argumen yang biasanya berperan sebagai Pelaku atau Pengalam (misal: "Budi *tidur*").
+- Verba Divalen (Transitif): Membutuhkan dua argumen yang berfungsi sebagai Pelaku dan Sasaran (misal: "Ibu *memasak* sayur").
+- Verba Trivalen (Bitransitif): Membutuhkan tiga argumen yang masing-masing berperan sebagai Pelaku, Sasaran, dan Penerima (misal: "Ayah *memberi* adik hadiah").
+
+
+==================================================
+KETERBALIKAN PERAN DALAM KALIMAT PASIF
+==================================================
+
+Perubahan bentuk sintaktis dari kalimat aktif menjadi kalimat pasif mengubah susunan fungsi sintaktik, namun peran semantis dari partisipan tidak mengalami perubahan.
+
+Perubahan Struktur:
+- Aktif: "Kucing (S / Agent) mengejar tikus (O / Patient)."
+- Pasif: "Tikus (S / Patient) dikejar oleh kucing (K / Agent)."
+
+Penjelasan:
+Pada kalimat pasif, kata "Tikus" naik fungsi menjadi Subjek (Sintaktik), tetapi secara semantis peran utamanya tetaplah sebagai Sasaran/Patient yang dikenai perbuatan.

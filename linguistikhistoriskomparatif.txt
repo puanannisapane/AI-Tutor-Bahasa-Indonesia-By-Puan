@@ -1,0 +1,79 @@
+LINGUISTIK HISTORIS KOMPARATIF
+
+==================================================
+HAKIKAT LINGUISTIK HISTORIS KOMPARATIF
+==================================================
+
+Linguistik Historis Komparatif (LHK) adalah cabang ilmu kebahasaan yang mengkaji perkembangan, perubahan, dan hubungan kekerabatan antar-bahasa dari waktu ke waktu. LHK membandingkan dua bahasa atau lebih untuk membuktikan keberadaan hubungan kekerabatan (genetis), merestruksi bahasa purba (proto-bahasa) yang menjadi induknya, serta melacak sejarah pergeseran struktur bahasa tersebut.
+
+Kajian ini berlandaskan pada asumsi bahwa bahasa-bahasa di dunia mengalami perubahan secara teratur dan bahasa-bahasa yang memiliki kemiripan sistematis berasal dari satu bahasa induk yang sama (proto-language).
+
+
+==================================================
+ASUMSI DASAR DAN KONSEP KEKERABATAN BAHASA
+==================================================
+
+Kekerabatan Genetis Bahasa:
+Hubungan sejarah antara dua atau lebih bahasa yang diturunkan dari satu bahasa induk bersama. Bahasa-bahasa yang terbukti memiliki kekerabatan genetis dikelompokkan ke dalam satu rumpun bahasa (language family).
+
+Keteraturan Perubahan Bunyi (Neogrammarian Hypothesis):
+Perubahan bunyi bahasa terjadi secara teratur dan konsisten dalam lingkungan fonetis yang sama tanpa pengecualian arbitrari. Keteraturan ini memungkinkan peneliti melakukan rekonstruksi kebahasaan secara ilmiah.
+
+Bahasa Proto (Proto-Language):
+Bahasa induk rekaan atau rekonstruksi yang diyakini pernah ada di masa lalu sebelum terpecah menjadi beberapa bahasa kerabat modern (misalnya Proto-Austronesia).
+
+
+==================================================
+METODE REKONSTRUKSI BAHASA
+==================================================
+
+Untuk menemukan bahasa induk dan mengukur kekerabatan, LHK menggunakan dua teknik rekonstruksi utama:
+
+- Rekonstruksi Eksternal (Metode Komparatif): Membandingkan bentuk-bentuk kata (kognat) dari dua atau lebih bahasa kerabat modern untuk merekonstruksi bentuk asal (proto) pada bahasa induknya.
+- Rekonstruksi Internal: Menganalisis variasi atau anomali struktur di dalam satu bahasa tunggal pada periode waktu tertentu untuk menemukan bentuk bahasa yang lebih kuno tanpa membandingkannya dengan bahasa lain.
+
+
+==================================================
+PASANGAN KOGNAT (COGNATE PAIRS)
+==================================================
+
+Pasangan kognat adalah kata-kata dalam bahasa yang berbeda yang memiliki kemiripan bentuk fonetis dan makna karena diturunkan secara langsung dari bentuk kata yang sama pada bahasa induknya.
+
+Karakteristik kata kognat:
+- Kerabat Asli: Kata kognat berasal dari kosakata dasar (basic vocabulary) seperti anggota tubuh, kata ganti, angka, dan fenomena alam dasar.
+- Bukan Kata Pinjaman (Bukan Loanwords): Kata kognat harus dipisahkan dari kata serapan akibat kontak budaya atau perdagangan (misalnya kata serapan dari bahasa Sanskerta, Arab, atau Eropa).
+- Kesepadanan Bunyi (Sound Correspondence): Kemiripan kata kognat ditunjukkan oleh pola korespondensi fonetis yang teratur, bukan sekadar kemiripan kebetulan.
+
+
+==================================================
+KOLEKSIONISTIK DAN HUKUM BUNYI
+==================================================
+
+Keteraturan pergeseran fonem dalam sejarah rumpun bahasa dirumuskan ke dalam hukum-hukum bunyi historis.
+
+Contoh hukum perubahan bunyi terkenal:
+- Hukum Grimm (Grimm's Law): Memetakan pergeseran konsonan hambat dari bahasa Proto-Indo-Eropa menuju bahasa-bahasa Germanic (seperti perubahan konsonan /p/ menjadi /f/).
+- Pergeseran Bunyi Austronesia: Pola korespondensi bunyi /r/, /g/, /h/ atau /d/, /r/, /l/ pada bahasa-bahasa dalam rumpun Austronesia (seperti perubahan kata 'urat' dalam berbagai bahasa daerah di Indonesia).
+
+
+==================================================
+GLOTOKRONOLOGI DAN LEKSIKOSTATISTIK
+==================================================
+
+Leksikostatistik dan glotokronologi adalah metode kuantitatif yang dikembangkan oleh Morris Swadesh untuk mengukur tingkat kekerabatan dan estimasi waktu perpisahan antar-bahasa.
+
+Konsep utama glotokronologi:
+- Daftar Kosakata Dasar Swadesh: Penggunaan 100 atau 200 kosakata dasar yang dianggap paling tahan terhadap perubahan dan penyerap kata asing.
+- Persentase Kerabat (Cognate Percentage): Menghitung jumlah kata kognat antar-dua bahasa untuk menentukan derajat kekerabatannya (misalnya subrumpun, rumpun, atau murni bahasa berbeda).
+- Laju Penyusutan (Retention Rate): Menggunakan asumsi matematis bahwa kosakata dasar suatu bahasa menyusut dengan laju konstan seiring berjalannya waktu untuk mengkalkulasi kapan dua bahasa mulai terpisah dari induknya.
+
+
+==================================================
+PERUBAHAN DAN PERGESERAN BAHASA (LANGUAGE CHANGE)
+==================================================
+
+Seiring berjalannya waktu, bahasa mengalami perubahan pada berbagai tingkat analisis:
+
+- Perubahan Fonetis dan Fonologis: Hilangnya bunyi tertentu (elisi), penambahan bunyi (epentesis), atau pergeseran posisi bunyi (metatesis).
+- Perubahan Semantis: Pergeseran makna kata dari waktu ke waktu, meliput penyempitan makna (spesialisasi), perluasan makna (generalisasi), ameliorasi (makna menjadi lebih baik), atau pejorasi (makna menjadi lebih buruk).
+- Analogis: Penyederhanaan bentuk-bentuk kata yang ireguler agar mengikuti pola gramatikal yang lebih umum dalam bahasa tersebut.

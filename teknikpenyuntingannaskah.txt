@@ -1,0 +1,66 @@
+TEKNIK PENYUNTINGAN NASKAH
+
+==================================================
+HAKIKAT DAN GOAL PENYUNTINGAN NASKAH
+==================================================
+
+Penyuntingan Naskah (Editing) adalah proses pemeriksaan, penyempurnaan, penyelarasan, dan penataan ulang teks calon terbitan sebelum dipublikasikan kepada khalayak luas. Penyuntingan bertujuan untuk memastikan naskah memenuhi standar keterbacaan (readability), kejelasan makna (clarity), konsistensi, kebenaran tata bahasa, serta kesesuaian dengan panduan gaya selingkung (style guide) penerbit.
+
+Penyunting (editor) bertindak sebagai pembaca pertama sekaligus jembatan kritis yang menyelaraskan pesan pengarang agar dapat diterima oleh pembaca secara optimal tanpa merusak karakter vokal dan gagasan asli penulis.
+
+
+==================================================
+JENIS DAN TINGKATAN PENYUNTINGAN
+==================================================
+
+Proses penyuntingan naskah dilakukan secara bertahap berdasarkan fokus perbaikannya:
+
+- Penyuntingan Substantif / Mekanis (Substantive/Developmental Editing): Berfokus pada keutuhan struktur naskah, kerapian alur berpikir, keandalan data, kejelasan logika cerita/argumen, serta penyelarasan bab secara menyeluruh.
+- Penyuntingan Kebahasaan / Kopiediting (Copyediting): Berfokus pada pembenahan aspek teknis kebahasaan, seperti ejaan (EYD/PUEBI), kelengkapan tata bahasa, efisiensi kalimat, diksi, dan pemilihan kata baku.
+- Pemeriksaan Aksara / Koreksi Cetak (Proofreading): Tahap penyuntingan akhir pada draf tata letak (layout) untuk menemukan kesalahan sisa, seperti salah ketik (typo), pemenggalan kata di akhir baris, atau ketidaksesuaian nomor halaman.
+
+
+==================================================
+ASPEK TEKNIS KEBAHASAAN DALAM PENYUNTINGAN
+==================================================
+
+Elemen-elemen linguistik yang menjadi objek pemeriksaan utama editor:
+
+- Penyelarasan Ejaan dan Tanda Baca: Mengoreksi penggunaan huruf kapital, miring, tebal, serta penggunaan tanda titik, koma, hubung, petik, dan tanda baca lainnya sesuai pedoman EYD terkini.
+- Penataan Struktur Kalimat Efektif: Mengubah kalimat ambigu, berbunga-bunga, atau terlalu panjang menjadi kalimat yang hemat, lugas, bersubjek-berpredikat jelas, dan tidak memiliki makna ganda.
+- Ketepatan Diksi dan Konsistensi Istilah: Mengganti kata tidak baku, kata mubazir (pleonasme), serta memastikan konsistensi ejaan kata serapan atau istilah teknis sepanjang naskah.
+- Penataan Paragraf dan Transisi: Memastikan setiap paragraf memiliki satu gagasan utama yang didukung oleh kalimat penjelas secara logis serta terhubung dengan transisi antarparagraf yang halus.
+
+
+==================================================
+GAYA SELINGKUNG DAN KONSISTENSI VISUAL
+==================================================
+
+Setiap lembaga penerbitan atau media memiliki konvensi khusus yang wajib diterapkan oleh editor:
+
+- Panduan Gaya Selingkung (House Style): Aturan baku khusus penerbit mengenai format penulisan angka, tanggal, pengutipan, daftar pustaka, catatan kaki, serta transkripsi bahasa asing.
+- Elemen Visual dan Tata Letak: Menguji kesesuaian judul, subjudul (heading), penomoran tabel, keterangan gambar (caption), serta konsistensi hirarki penulisan sepanjang draf.
+- Konsistensi Penamaan dan Istilah: Memastikan nama tokoh, nama tempat, sebutan waktu, dan penulisan glosarium tidak berubah-ubah di pertengahan teks.
+
+
+==================================================
+ETIKA DAN HUBUNGAN EDITOR-PENGARANG
+==================================================
+
+Prinsip moral dan batas-batas profesional yang wajib dipegang oleh seorang penyunting naskah:
+
+- Mengagumi dan Menghormati Suara Pengarang: Penyunting tidak boleh mengganti gaya penulisan khas atau memaksakan selera pribadi jika kalimat pengarang sudah benar dan efektif secara tata bahasa.
+- Kerahasiaan Naskah (Confidentiality): Menjaga kerahasiaan isi naskah yang sedang disunting dan tidak membagikannya kepada pihak ketiga tanpa izin sah pengarang atau penerbit.
+- Komunikasi Konstruktif: Memberikan masukan, saran revisi, atau koreksi substantif melalui catatan pinggir (margin note/track changes) dengan bahasa yang santun dan argumentatif.
+- Ketelitian Terhadap Hak Cipta: Memeriksa ada atau tidaknya potensi plagiarisme, pengutipan tanpa izin, pencemaran nama baik, atau pelanggaran hukum dalam naskah.
+
+
+==================================================
+ALAT BANTU DAN SIMBOL PENYUNTINGAN
+==================================================
+
+Instrumen teknis yang memfasilitasi kerja penyuntingan naskah modern dan konvensional:
+
+- Tanda/Simbol Koreksi Cetak (Proofreading Marks): Kode standar konvensional di atas kertas cetak untuk menandai koreksi hapus, sisip, pindah baris, atau ubah huruf.
+- Perangkat Lunak Digital: Pemanfaatan fitur *Track Changes* pada pengolah kata (MS Word/Google Docs), kamus digital (KBBI VI), dan tesaurus untuk mempercepat integrasi revisi secara terstruktur.
+- Lembar Kerja Penyuntingan (Editing Checklist): Daftar periksa mandiri editor untuk memastikan tidak ada elemen naskah (seperti halaman judul, kata pengantar, hak cipta, dan biodata penulis) yang terlewatkan.
