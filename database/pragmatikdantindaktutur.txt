@@ -1,0 +1,115 @@
+PRAGMATIK DAN TINDAK TUTUR
+
+==================================================
+HAKIKAT PRAGMATIK
+==================================================
+
+Pragmatik adalah cabang keilmuan linguistik yang mengkaji hubungan antara struktur bahasa dan konteks pemakaiannya. Berbeda dengan semantik yang mempelajari makna kata atau kalimat secara bebas konteks (makna kamus/tekstual), pragmatik berfokus pada makna tuturan yang terikat pada konteks situasi, tujuan pembicara, latar belakang sosial, serta relasi antara penutur dan mitra tutur.
+
+Dalam kajian pragmatik, unit dasar yang dianalisis bukan sekadar kata atau kalimat sebagai entitas tata bahasa, melainkan tuturan (utterance) yang diproduksi dalam peristiwa komunikasi nyata.
+
+
+==================================================
+KONSEP KONTEKS DALAM PRAGMATIK
+==================================================
+
+Konteks merupakan seluruh latar belakang pengetahuan, situasi fisik, sosial, dan psikologis yang dimiliki bersama oleh penutur dan mitra tutur yang memungkinkan interpretasi tuturan secara tepat.
+
+Unsur-unsur pembentuk konteks tuturan:
+- Konteks Fisik: Tempat, waktu, dan objek fisik yang ada di sekitar peristiwa tutur.
+- Konteks Epistemik: Latar belakang pengetahuan yang sama-sama diketahui dan diyakini oleh penutur maupun mitra tutur (shared knowledge).
+- Konteks Lingkungan Sosial: Status sosial, norma budaya, serta jarak hubungan antarpelaku komunikasi.
+- Konteks Linguistik (Konteks Teks): Urutan kata atau kalimat sebelum dan sesudah suatu tuturan diproduksi (deksripsi teks).
+
+
+==================================================
+DEIKSIS DAN ANAPHORA
+==================================================
+
+Deiksis adalah fenomena bahasa di mana acuan makna dari suatu kata atau frasa berpindah-pindah tergantung pada konteks saat kata tersebut diujarkan. Kata-kata deiktik tidak dapat dipahami maknanya tanpa mengetahui siapa penuturnya, kapan, dan di mana tuturan disampaikan.
+
+Jenis-jenis deiksis:
+- Deiksis Persona: Menunjuk pada pelaku tuturan (orang pertama, kedua, atau ketiga). Contoh: saya, kamu, mereka.
+- Deiksis Ruang (Waktu / Tempat): Menunjuk pada lokasi fisik dari sudut pandang penutur. Contoh: di sini, di sana, kemari.
+- Deiksis Waktu: Menunjuk pada titik atau rentang waktu terjadinya tuturan. Contoh: sekarang, besok, kemarin, tadi.
+- Deiksis Wacana: Menunjuk pada bagian tertentu dari wacana yang sedang atau telah disampaikan. Contoh: hal itu, berikut ini.
+- Deiksis Sosial: Menunjuk pada perbedaan status sosial atau hubungan peran antara penutur dan mitra tutur. Contoh: Bapak, Ibu, Saudara, Anda, Yang Mulia.
+
+
+==================================================
+HAKIKAT TINDAK TUTUR (SPEECH ACTS)
+==================================================
+
+Tindak tutur adalah tindakan yang dilakukan melalui pengujaran suatu kalimat atau tuturan. Bahasa tidak hanya digunakan untuk menggambarkan suatu fakta, tetapi juga untuk melakukan suatu perbuatan (misalnya berjanji, meminta, memerintah, atau meminta maaf).
+
+Tiga tataran tindak tutur menurut J.L. Austin:
+- Lokusi (Lokusi Act): Tindak tutur dasar untuk mengucapkan suatu pernyataan dengan makna literal kata-katanya tanpa bermaksud memengaruhi mitra tutur.
+- Ilokusi (Illocutionary Act): Tindak tutur yang mengandung fungsi, maksud, atau daya tertentu di balik ucapan tersebut (seperti memerintah, meminta, memberi selamat).
+- Perlokusi (Perlocutionary Act): Efek atau akibat yang ditimbulkan oleh tuturan terhadap sikap, pikiran, atau tindakan mitra tutur (seperti membuat orang lain takut, gembira, atau melakukan sesuatu).
+
+
+==================================================
+KLASIFIKASI TINDAK TUTUR ILOKUSI
+==================================================
+
+Berdasarkan fungsi sosial dan niat komunikatif penutur, tindak ilokusi dikelompokkan menjadi beberapa kategori utama:
+
+- Asertif / Representatif: Tindak tutur yang mengikat penutur pada kebenaran proposisi yang diungkapkan. Contoh: menyatakan, melaporkan, mengusulkan, menyimpulkan.
+- Direktif: Tindak tutur yang bertujuan membuat mitra tutur melakukan suatu tindakan. Contoh: memerintah, memohon, menyarankan, melarang.
+- Ekspresif: Tindak tutur yang mengekspresikan sikap emosional atau psikologis penutur terhadap suatu keadaan. Contoh: berterima kasih, meminta maaf, mengucapkan selamat, memuji.
+- Komisif: Tindak tutur yang mengikat penutur untuk melakukan suatu tindakan di masa depan. Contoh: berjanji, bersumpah, menawarkan, mengancam.
+- Deklaratif / Deklarasi: Tindak tutur yang mengubah status, kondisi, atau realitas suatu objek/seseorang secara formal seketika tuturan diucapkan. Contoh: membaptis, meresmikan, memecat, menjatuhkan hukuman.
+
+
+==================================================
+TINDAK TUTUR LANGSUNG DAN TIDAK LANGSUNG
+==================================================
+
+Berdasarkan keselarasan antara modus kalimat dan fungsi ilokusinya, tindak tutur dibedakan menjadi dua bentuk:
+
+- Tindak Tutur Langsung: Modus kalimat selaras dengan fungsi komunikatifnya secara literal. Modus deklaratif digunakan untuk menyatakan fakta, modus interogatif untuk bertanya, dan modus imperatif untuk memerintah.
+- Tindak Tutur Tidak Langsung: Fungsi komunikatif disampaikan menggunakan modus kalimat yang tidak biasa secara struktural untuk menjaga kesopanan. Contoh: Menggunakan kalimat tanya "Apakah pintu itu terbuka?" dengan maksud sebenarnya adalah meminta mitra tutur menutup pintu.
+
+
+==================================================
+IMPLIKATUR PERCAKAPAN (CONVERSATIONAL IMPLICATURE)
+==================================================
+
+Implikatur percakapan adalah maksud atau pesan tersirat yang ingin disampaikan oleh penutur tetapi tidak secara eksplisit diungkapkan dalam bentuk kata-kata literal.
+
+Karakteristik implikatur percakapan:
+- Terikat Konteks: Makna tersirat hanya dapat dipahami jika mitra tutur memahami konteks tuturan.
+- Dapat Dibatalkan: Implikatur dapat secara eksplisit dibatalkan atau dijelaskan ulang oleh penutur tanpa menimbulkan kontradiksi tata bahasa.
+- Memerlukan Inferensi: Mitra tutur harus melakukan proses penalaran (inferensi) untuk menjembatani apa yang diucapkan secara literal dengan apa yang sebenarnya dimaksudkan oleh penutur.
+
+
+==================================================
+PRINSIP KERJA SAMA DAN MAKSIM PERCAKAPAN
+==================================================
+
+Agar percakapan berjalan lancar dan rasional, penutur dan mitra tutur secara implisit mematuhi Prinsip Kerja Sama (Cooperative Principle) dari Paul Grice.
+
+Empat Maksim Percakapan Grice:
+- Maksim Kuantitas: Berikan informasi secukupnya, jangan terlalu sedikit dan jangan berlebihan dari yang diperlukan.
+- Maksim Kualitas: Sampaikan informasi yang benar, jangan mengatakan sesuatu yang diyakini salah atau yang kurang bukti kuatnya.
+- Maksim Relevansi: Buatlah tuturan yang relevan dan berhubungan langsung dengan topik pembicaraan.
+- Maksim Pelaksanaan / Cara: Berbicaralah secara jelas, tidak kabur, tidak mendua arti, serta runtut.
+
+Pelanggaran Maksim (Flouting Maxims):
+Penutur sengaja melanggar maksim tertentu bukan untuk merusak percakapan, melainkan untuk memicu lahirnya implikatur percakapan (misalnya menggunakan sarkasme, metafora, atau ironi).
+
+
+==================================================
+PRINSIP KESOPANAN DAN TEORI MUKA (FACE THEORY)
+==================================================
+
+Dalam berinteraksi sosial, pemilihan strategi tutur dipengaruhi oleh keinginan untuk menjaga hubungan baik dan menghormati mitra tutur.
+
+Konsep "Muka" (Face) menurut Brown dan Levinson:
+- Muka Positif: Keinginan setiap individu agar dirinya diterima, dihargai, disukai, dan diakui oleh orang lain.
+- Muka Negatif: Keinginan setiap individu agar hak kebebasannya untuk bertindak tidak dihalangi atau diganggu oleh orang lain.
+- Tindak Mengancam Muka (Face-Threatening Acts / FTA): Tuturan atau tindakan yang berpotensi merusak muka positif atau negatif seseorang (seperti kritik, perintah, atau penolakan).
+
+Strategi Kesopanan:
+- Kesopanan Positif: Strategi mendekatkan jarak sosial, menunjukkan keakraban, pujian, dan solidaritas.
+- Kesopanan Negatif: Strategi menjaga jarak sosial, memberikan kebebasan pada mitra tutur, serta menggunakan ungkapan maaf atau penyesalan saat meminta sesuatu.

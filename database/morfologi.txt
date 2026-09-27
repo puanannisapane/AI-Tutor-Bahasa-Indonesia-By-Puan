@@ -1,0 +1,1239 @@
+MATERI MORFOLOGI BAHASA INDONESIA
+
+A. PENDAHULUAN
+
+Morfologi merupakan salah satu cabang ilmu linguistik yang mempelajari bentuk kata, proses pembentukan kata, serta perubahan bentuk kata yang menghasilkan makna atau fungsi tertentu. Dalam Bahasa Indonesia, morfologi memiliki peranan penting karena banyak kata yang digunakan dalam komunikasi sehari-hari terbentuk melalui proses tertentu.
+
+Contohnya adalah kata "tulis". Kata tersebut dapat mengalami proses pembentukan menjadi "menulis", "menuliskan", "penulis", "penulisan", "tertulis", dan "tulisan". Walaupun berasal dari bentuk dasar yang sama, setiap kata memiliki bentuk, fungsi, dan makna yang berbeda.
+
+Dengan mempelajari morfologi, seseorang dapat memahami bagaimana sebuah kata dibentuk dan bagaimana perubahan bentuk tersebut dapat memengaruhi makna serta penggunaannya dalam kalimat.
+
+Morfologi tidak hanya penting dalam kajian linguistik, tetapi juga dalam pembelajaran Bahasa Indonesia. Pemahaman mengenai morfologi membantu siswa, mahasiswa, guru, penulis, dan peneliti dalam memahami pembentukan kata, penggunaan imbuhan, penulisan kata, serta hubungan antara bentuk kata dan maknanya.
+
+B. PENGERTIAN MORFOLOGI
+
+Secara umum, morfologi adalah cabang linguistik yang mempelajari struktur internal kata dan proses pembentukan kata.
+
+Istilah morfologi berasal dari bahasa yang berkaitan dengan konsep "bentuk" dan "ilmu". Dalam kajian linguistik, morfologi berfokus pada bagaimana kata tersusun dari unsur-unsur pembentuknya.
+
+Contohnya:
+
+menulis
+berjalan
+pelajar
+penulisan
+rumah-rumah
+
+Kata-kata tersebut memiliki bentuk yang berbeda karena mengalami proses tertentu.
+
+Morfologi dapat dikatakan sebagai ilmu yang mempelajari:
+1. Bentuk kata.
+2. Struktur kata.
+3. Unsur pembentuk kata.
+4. Proses pembentukan kata.
+5. Perubahan bentuk kata.
+6. Perubahan makna akibat proses pembentukan kata.
+7. Fungsi unsur pembentuk kata.
+
+C. RUANG LINGKUP MORFOLOGI
+
+Ruang lingkup morfologi cukup luas. Beberapa hal utama yang dipelajari dalam morfologi adalah:
+
+1. Morfem
+2. Kata
+3. Morf
+4. Alomorf
+5. Kata dasar
+6. Afiksasi
+7. Reduplikasi
+8. Komposisi
+9. Derivasi
+10. Infleksi
+11. Proses morfofonemik
+12. Produktivitas pembentukan kata
+
+Semua unsur tersebut saling berhubungan dalam proses pembentukan kata.
+
+D. MORFEM
+
+Morfem merupakan satuan gramatikal terkecil yang memiliki makna atau fungsi gramatikal.
+
+Morfem berbeda dengan kata. Sebuah kata dapat terdiri atas satu morfem atau lebih.
+
+Contoh:
+
+"rumah"
+
+Kata "rumah" dapat dianggap terdiri atas satu morfem karena tidak dapat dipecah menjadi bagian-bagian yang lebih kecil yang masing-masing memiliki makna gramatikal.
+
+Sementara itu:
+
+"rumah-rumah"
+
+terdiri atas bentuk "rumah" yang mengalami pengulangan.
+
+Contoh lain:
+
+"menulis"
+
+Kata "menulis" terdiri atas:
+meN- + tulis
+
+"tulis" merupakan bentuk dasar, sedangkan "meN-" merupakan morfem terikat yang memberikan fungsi tertentu dalam pembentukan kata.
+
+E. JENIS-JENIS MORFEM
+
+Morfem dapat dibedakan berdasarkan beberapa kategori.
+
+1. Morfem Bebas
+
+Morfem bebas adalah morfem yang dapat berdiri sendiri sebagai kata.
+
+Contoh:
+
+rumah
+buku
+makan
+minum
+jalan
+tulis
+siswa
+guru
+
+Morfem-morfem tersebut dapat digunakan secara mandiri dalam kalimat.
+
+Contoh:
+
+Siswa membaca buku.
+
+Dalam kalimat tersebut, "siswa" dan "buku" dapat berdiri sendiri.
+
+2. Morfem Terikat
+
+Morfem terikat adalah morfem yang tidak dapat berdiri sendiri dan harus bergabung dengan bentuk lain.
+
+Contoh:
+
+ber-
+meN-
+di-
+ter-
+peN-
+ke-an
+per-an
+-kan
+-i
+
+Morfem tersebut tidak dapat digunakan sebagai kata secara mandiri.
+
+Contoh:
+
+ber- tidak dapat digunakan sendiri sebagai sebuah kata dalam Bahasa Indonesia standar.
+
+Namun, jika bergabung dengan bentuk dasar:
+
+ber + jalan = berjalan
+
+3. Morfem Dasar
+
+Morfem dasar merupakan morfem yang menjadi dasar pembentukan kata.
+
+Contoh:
+
+tulis
+baca
+ajar
+main
+rumah
+sapu
+
+4. Morfem Afiks
+
+Morfem afiks adalah morfem terikat yang digunakan untuk membentuk kata baru atau memberikan fungsi gramatikal tertentu.
+
+Contoh:
+
+meN-
+ber-
+ter-
+di-
+peN-
+-kan
+-i
+-an
+ke-an
+
+F. MORF
+
+Morf adalah bentuk nyata atau bentuk fonologis dari suatu morfem.
+
+Dengan kata sederhana, morf dapat dipahami sebagai bentuk yang benar-benar muncul dalam sebuah kata.
+
+Contoh:
+
+Kata "berjalan" memiliki bentuk "ber-" yang tampak secara nyata.
+
+Kata "bermain" juga memiliki bentuk "ber-".
+
+Bentuk "ber-" tersebut merupakan morf yang merealisasikan morfem tertentu.
+
+G. ALOMORF
+
+Alomorf adalah variasi bentuk dari suatu morfem yang muncul dalam lingkungan tertentu.
+
+Salah satu contoh yang dapat dilihat dalam Bahasa Indonesia adalah variasi bentuk prefiks meN-.
+
+Morfem meN- dapat muncul dalam berbagai bentuk, seperti:
+
+me-
+mem-
+men-
+meng-
+meny-
+
+Contoh:
+
+meN- + lihat = melihat
+meN- + baca = membaca
+meN- + tulis = menulis
+meN- + sapu = menyapu
+meN- + kirim = mengirim
+
+Walaupun bentuknya berbeda, bentuk-bentuk tersebut memiliki fungsi yang berkaitan dengan morfem meN-.
+
+H. KATA
+
+Kata merupakan satuan bahasa yang dapat berdiri sendiri dan memiliki makna atau fungsi tertentu dalam struktur bahasa.
+
+Dalam morfologi, kata menjadi salah satu objek utama kajian karena kata dapat mengalami berbagai proses pembentukan.
+
+Contoh:
+
+baca
+membaca
+pembaca
+bacaan
+membacakan
+
+Semua kata tersebut berkaitan dengan bentuk dasar "baca", tetapi proses pembentukannya menghasilkan fungsi dan makna yang berbeda.
+
+I. KATA DASAR
+
+Kata dasar adalah kata yang menjadi dasar dalam pembentukan kata lain.
+
+Contoh:
+
+ajar
+baca
+tulis
+main
+jalan
+jual
+beli
+sapu
+cat
+gambar
+
+Dari kata dasar tersebut dapat dibentuk berbagai kata baru.
+
+Contoh:
+
+ajar:
+belajar
+mengajar
+pelajar
+pelajaran
+pengajaran
+
+tulis:
+menulis
+penulis
+penulisan
+tulisan
+tertulis
+
+baca:
+membaca
+pembaca
+bacaan
+dibaca
+membacakan
+
+J. PROSES MORFOLOGIS
+
+Proses morfologis adalah proses pembentukan kata dengan cara mengubah bentuk dasar menjadi bentuk yang memiliki fungsi atau makna tertentu.
+
+Dalam Bahasa Indonesia, proses morfologis yang utama meliputi:
+
+1. Afiksasi
+2. Reduplikasi
+3. Komposisi atau pemajemukan
+
+Selain itu, dalam pembentukan kata juga terdapat proses lain, seperti perubahan bentuk yang berkaitan dengan bunyi dan penyerapan unsur bahasa.
+
+K. AFIKSASI
+
+Afiksasi adalah proses pembentukan kata dengan menambahkan afiks atau imbuhan pada bentuk dasar.
+
+Afiks dapat ditambahkan di awal, di tengah, di akhir, atau mengapit bentuk dasar.
+
+Dalam Bahasa Indonesia terdapat beberapa jenis afiks.
+
+1. Prefiks
+
+Prefiks adalah imbuhan yang diletakkan di awal bentuk dasar.
+
+Contoh:
+
+meN-
+ber-
+ter-
+di-
+peN-
+per-
+se-
+ke-
+
+Contoh:
+
+meN- + tulis = menulis
+ber- + jalan = berjalan
+di- + tulis = ditulis
+ter- + buka = terbuka
+
+2. Sufiks
+
+Sufiks adalah imbuhan yang diletakkan di belakang bentuk dasar.
+
+Contoh:
+
+-kan
+-i
+-an
+
+Contoh:
+
+tulis + -kan = tuliskan
+isi + -i = isi
+makan + -an = makanan
+
+3. Infiks
+
+Infiks adalah imbuhan yang disisipkan ke dalam bentuk dasar.
+
+Dalam Bahasa Indonesia, infiks tidak seproduktif prefiks dan sufiks.
+
+Contoh yang sering dibahas:
+
+gigi -> gerigi
+tunjuk -> telunjuk
+sambung -> sinambung
+
+Unsur seperti -el-, -em-, dan -er- dapat ditemukan dalam beberapa bentuk kata.
+
+4. Konfiks
+
+Konfiks adalah imbuhan yang terdiri atas dua bagian yang digunakan secara bersamaan untuk mengapit bentuk dasar.
+
+Contoh:
+
+ke-an
+peN-an
+per-an
+
+Contoh:
+
+ke- + indah + -an = keindahan
+peN- + tulis + -an = penulisan
+per- + temu + -an = pertemuan
+
+5. Kombinasi Afiks
+
+Dalam pembentukan kata, suatu bentuk dasar dapat menerima lebih dari satu afiks.
+
+Contoh:
+
+meN- + tulis + -kan = menuliskan
+di- + baca + -kan = dibacakan
+ke- + baik + -an = kebaikan
+
+L. PREFIKS ME(N)-
+
+Prefiks meN- merupakan salah satu imbuhan yang sangat produktif dalam Bahasa Indonesia.
+
+Prefiks ini dapat mengalami perubahan bentuk sesuai dengan bunyi awal bentuk dasar.
+
+Contoh:
+
+meN- + tulis = menulis
+meN- + baca = membaca
+meN- + sapu = menyapu
+meN- + kirim = mengirim
+meN- + lihat = melihat
+
+Perubahan bentuk tersebut berkaitan dengan proses morfofonemik.
+
+M. PREFIKS BER-
+
+Prefiks ber- digunakan untuk membentuk kata yang antara lain menunjukkan tindakan, keadaan, atau memiliki sesuatu sesuai dengan bentuk dasarnya.
+
+Contoh:
+
+berjalan
+berlari
+bermain
+bersepeda
+berbicara
+bernyanyi
+
+Contoh dalam kalimat:
+
+Siswa berjalan menuju kelas.
+
+Anak-anak bermain di halaman.
+
+N. PREFIKS TER-
+
+Prefiks ter- memiliki beberapa fungsi dan makna.
+
+Ter- dapat menunjukkan keadaan atau kondisi tertentu.
+
+Contoh:
+
+terbuka
+tertutup
+terikat
+
+Ter- juga dapat menunjukkan keadaan yang terjadi tanpa sengaja atau kemampuan tertentu dalam konteks tertentu.
+
+Contoh:
+
+terjatuh
+terlambat
+terlihat
+
+Makna prefiks ter- harus dilihat berdasarkan konteks kalimat.
+
+O. PREFIKS DI-
+
+Prefiks di- umumnya digunakan untuk membentuk kata kerja pasif.
+
+Contoh:
+
+dibaca
+ditulis
+dikerjakan
+dipelajari
+diperiksa
+dibuat
+
+Contoh:
+
+Buku itu dibaca oleh siswa.
+
+Tugas tersebut dikerjakan di rumah.
+
+Prefiks di- harus dibedakan dengan kata depan "di".
+
+Perbandingan:
+
+di sekolah = kata depan
+
+ditulis = prefiks
+
+di rumah = kata depan
+
+dibaca = prefiks
+
+P. PREFIKS PE(N)-
+
+Prefiks peN- dapat membentuk kata yang menunjukkan pelaku atau sesuatu yang berkaitan dengan suatu tindakan.
+
+Contoh:
+
+tulis -> penulis
+baca -> pembaca
+jual -> penjual
+ajar -> pengajar
+sapu -> penyapu
+
+Contoh:
+
+Penulis tersebut menghasilkan banyak karya.
+
+Pembaca memberikan tanggapan terhadap buku tersebut.
+
+Q. PREFIKS KE-
+
+Prefiks ke- dapat ditemukan dalam beberapa bentuk pembentukan kata.
+
+Contoh:
+
+ketua
+kehendak
+kekasih
+
+Prefiks ke- juga dapat menjadi bagian dari pembentukan kata dengan konfiks ke-an.
+
+Contoh:
+
+ke- + indah + -an = keindahan
+ke- + tinggi + -an = ketinggian
+ke- + baik + -an = kebaikan
+
+R. SUFIKS -KAN
+
+Sufiks -kan merupakan imbuhan yang diletakkan di belakang bentuk dasar.
+
+Contoh:
+
+baca + -kan = bacakan
+tulis + -kan = tuliskan
+ambil + -kan = ambilkan
+
+Contoh dalam kalimat:
+
+Tolong bacakan cerita itu.
+
+Tuliskan jawabanmu pada buku.
+
+S. SUFIKS -I
+
+Sufiks -i digunakan pada berbagai bentuk kata dan dapat memberikan makna tertentu.
+
+Contoh:
+
+isi + -i = isi
+lengkap + -i = lengkapi
+warna + -i = warnai
+
+Contoh dalam kalimat:
+
+Lengkapi kalimat tersebut!
+
+Warnai gambar itu dengan baik.
+
+T. SUFIKS -AN
+
+Sufiks -an dapat membentuk nomina atau memberikan makna tertentu.
+
+Contoh:
+
+makan + -an = makanan
+tulis + -an = tulisan
+baca + -an = bacaan
+ajar + -an = ajaran
+
+Contoh:
+
+Makanan tersebut sangat lezat.
+
+Tulisan siswa diperiksa oleh guru.
+
+U. REDUPLIKASI
+
+Reduplikasi adalah proses pengulangan bentuk dasar, baik seluruhnya maupun sebagian, untuk membentuk kata tertentu.
+
+Reduplikasi dalam Bahasa Indonesia dapat menghasilkan makna yang berbeda-beda.
+
+1. Pengulangan Seluruh
+
+Bentuk dasar diulang seluruhnya.
+
+Contoh:
+
+buku-buku
+rumah-rumah
+anak-anak
+guru-guru
+siswa-siswa
+
+Contoh:
+
+Buku-buku tersebut disusun di rak.
+
+2. Pengulangan Sebagian
+
+Hanya sebagian bentuk dasar yang mengalami pengulangan.
+
+Contoh:
+
+lelaki
+tetamu
+leluhur
+
+3. Pengulangan dengan Perubahan Bunyi
+
+Pengulangan dapat disertai perubahan bunyi.
+
+Contoh:
+
+sayur-mayur
+gerak-gerik
+lauk-pauk
+warna-warni
+
+4. Pengulangan Berimbuhan
+
+Bentuk ulang dapat disertai imbuhan.
+
+Contoh:
+
+berjalan-jalan
+bermain-main
+sayur-mayuran
+rumah-rumahan
+
+V. MAKNA REDUPLIKASI
+
+Reduplikasi dapat menghasilkan berbagai makna.
+
+1. Menunjukkan jumlah banyak
+
+Contoh:
+
+buku-buku
+siswa-siswa
+rumah-rumah
+
+2. Menunjukkan keberagaman
+
+Contoh:
+
+sayur-mayur
+warna-warni
+
+3. Menunjukkan kegiatan berulang atau santai
+
+Contoh:
+
+berjalan-jalan
+bermain-main
+
+4. Menunjukkan kemiripan atau tiruan
+
+Contoh:
+
+rumah-rumahan
+mobil-mobilan
+anak-anakan
+
+Makna reduplikasi harus dipahami berdasarkan konteks.
+
+W. KOMPOSISI ATAU PEMAYEMUKAN
+
+Komposisi adalah proses penggabungan dua kata atau lebih yang menghasilkan satu kesatuan makna tertentu.
+
+Contoh:
+
+rumah sakit
+kereta api
+orang tua
+tanggung jawab
+kerja sama
+kambing hitam
+
+Gabungan tersebut memiliki hubungan makna tertentu yang tidak selalu dapat dipahami hanya dengan melihat arti masing-masing kata.
+
+Contoh:
+
+"rumah sakit"
+
+Tidak berarti rumah yang sakit, tetapi sebuah tempat untuk pelayanan kesehatan.
+
+"orang tua"
+
+Tidak hanya berarti orang yang memiliki usia tua, tetapi dapat bermakna ayah dan ibu.
+
+X. DERIVASI
+
+Derivasi merupakan proses pembentukan kata yang dapat menghasilkan leksem atau kata baru dengan perubahan kategori atau makna tertentu.
+
+Contoh:
+
+tulis -> penulis
+
+Kata "tulis" berkaitan dengan verba atau bentuk dasar, sedangkan "penulis" merupakan nomina yang menunjukkan pelaku.
+
+Contoh lainnya:
+
+ajar -> pengajar
+baca -> pembaca
+jual -> penjual
+
+Proses tersebut menghasilkan bentuk kata yang memiliki fungsi dan makna baru.
+
+Y. INFLEKSI
+
+Infleksi adalah perubahan bentuk kata yang tidak menghasilkan leksem baru, tetapi berkaitan dengan fungsi gramatikal.
+
+Konsep infleksi perlu dibedakan dari derivasi.
+
+Dalam Bahasa Indonesia, pembahasan infleksi tidak selalu sama seperti dalam bahasa-bahasa yang memiliki perubahan bentuk kata yang sangat kompleks. Namun, konsep ini tetap penting dalam kajian morfologi untuk membandingkan perubahan bentuk yang bersifat gramatikal dengan pembentukan kata baru.
+
+Z. MORFOFONEMIK
+
+Morfofonemik adalah kajian mengenai perubahan bunyi yang terjadi akibat proses morfologis.
+
+Dengan kata lain, ketika suatu imbuhan digabungkan dengan bentuk dasar, dapat terjadi perubahan bunyi tertentu.
+
+Contoh yang mudah ditemukan adalah perubahan bentuk prefiks meN-.
+
+meN- + tulis = menulis
+
+meN- + baca = membaca
+
+meN- + sapu = menyapu
+
+meN- + kirim = mengirim
+
+Perubahan tersebut tidak hanya berkaitan dengan bentuk imbuhan, tetapi juga berhubungan dengan bunyi pada bentuk dasar.
+
+AA. FUNGSI MORFOLOGI DALAM PEMBENTUKAN KATA
+
+Morfologi memiliki beberapa fungsi penting dalam Bahasa Indonesia.
+
+1. Membentuk kata baru.
+
+Contoh:
+
+tulis -> penulis
+
+2. Mengubah kategori kata.
+
+Contoh:
+
+tulis -> penulis
+
+3. Menambahkan makna tertentu.
+
+Contoh:
+
+rumah -> rumah-rumah
+
+4. Menunjukkan hubungan gramatikal.
+
+Contoh:
+
+baca -> dibaca
+
+5. Menunjukkan pelaku.
+
+Contoh:
+
+ajar -> pengajar
+
+6. Menunjukkan hasil atau sesuatu yang berkaitan dengan tindakan.
+
+Contoh:
+
+tulis -> tulisan
+
+AB. MORFOLOGI DAN KATEGORI KATA
+
+Proses morfologis dapat mengubah kategori suatu kata.
+
+Contoh:
+
+ajar
+mengajar
+pengajar
+pengajaran
+pelajaran
+
+Bentuk-bentuk tersebut memiliki hubungan dengan bentuk dasar "ajar", tetapi fungsi dan kategorinya dapat berbeda.
+
+Contoh:
+
+"Mengajar" digunakan sebagai verba.
+
+"Pengajar" digunakan sebagai nomina.
+
+"Pengajaran" digunakan sebagai nomina.
+
+Hal ini menunjukkan bahwa proses morfologis dapat berpengaruh terhadap kategori dan fungsi kata.
+
+AC. MORFOLOGI DAN MAKNA
+
+Perubahan bentuk kata sering menyebabkan perubahan makna.
+
+Contoh:
+
+tulis
+menulis
+penulis
+tulisan
+penulisan
+
+"Tulis" merupakan bentuk dasar.
+
+"Menulis" berarti melakukan kegiatan menulis.
+
+"Penulis" berarti orang yang melakukan kegiatan menulis.
+
+"Tulisan" dapat berarti hasil atau sesuatu yang ditulis.
+
+"Penulisan" dapat merujuk pada proses atau kegiatan menulis.
+
+Dengan demikian, proses morfologis tidak hanya menghasilkan perubahan bentuk, tetapi juga dapat menghasilkan perbedaan makna.
+
+AD. MORFOLOGI DALAM KALIMAT
+
+Morfologi tidak dapat dipisahkan dari penggunaan kata dalam kalimat.
+
+Contoh:
+
+Siswa menulis teks biografi.
+
+Kata "menulis" terbentuk dari:
+
+meN- + tulis
+
+Jika digunakan dalam bentuk lain:
+
+Penulis teks biografi tersebut adalah siswa kelas X.
+
+Kata "penulis" terbentuk dari:
+
+peN- + tulis
+
+Perubahan bentuk tersebut menyebabkan perubahan fungsi dalam kalimat.
+
+"Menulis" berfungsi sebagai predikat.
+
+"Penulis" berfungsi sebagai nomina.
+
+AE. MORFOLOGI DAN SINTAKSIS
+
+Morfologi dan sintaksis merupakan dua cabang linguistik yang saling berkaitan.
+
+Morfologi mempelajari pembentukan kata.
+
+Sintaksis mempelajari hubungan kata dalam membentuk frasa, klausa, dan kalimat.
+
+Contoh:
+
+Kata:
+menulis
+
+Frasa:
+sedang menulis
+
+Kalimat:
+Siswa sedang menulis.
+
+Dalam contoh tersebut, morfologi menjelaskan bagaimana kata "menulis" terbentuk, sedangkan sintaksis menjelaskan bagaimana kata tersebut digunakan dalam struktur kalimat.
+
+AF. MORFOLOGI DAN SEMANTIK
+
+Morfologi juga berkaitan erat dengan semantik karena perubahan bentuk kata dapat menyebabkan perubahan makna.
+
+Contoh:
+
+ajar
+mengajar
+belajar
+pengajar
+pelajar
+pelajaran
+pengajaran
+
+Walaupun semua bentuk tersebut berhubungan dengan "ajar", masing-masing memiliki makna yang berbeda.
+
+Oleh sebab itu, analisis morfologi dapat membantu menjelaskan hubungan antara bentuk dan makna kata.
+
+AG. MORFOLOGI DAN LEKSIKAL
+
+Morfologi juga berhubungan dengan leksikon atau kosakata suatu bahasa.
+
+Semakin produktif suatu proses pembentukan kata, semakin banyak bentuk kata yang dapat dihasilkan.
+
+Contoh dari bentuk dasar "guna":
+
+berguna
+menggunakan
+pengguna
+kegunaan
+penggunaan
+
+Satu bentuk dasar dapat menghasilkan banyak kata melalui proses morfologis.
+
+AH. PRODUKTIVITAS MORFOLOGI
+
+Produktivitas merupakan kemampuan suatu proses morfologis untuk digunakan dalam membentuk kata baru.
+
+Dalam Bahasa Indonesia, beberapa imbuhan sangat produktif.
+
+Contohnya:
+
+meN-
+ber-
+peN-
+-an
+-kan
+-i
+ke-an
+
+Dari satu bentuk dasar, dapat terbentuk beberapa kata.
+
+Contoh:
+
+ajar:
+belajar
+mengajar
+pelajar
+pengajar
+pelajaran
+pengajaran
+
+Namun, tidak semua proses dapat diterapkan secara bebas pada semua bentuk dasar. Ada bentuk tertentu yang penggunaannya telah dibatasi oleh kebiasaan atau kaidah bahasa.
+
+AI. KESALAHAN MORFOLOGIS YANG SERING TERJADI
+
+Kesalahan morfologis adalah kesalahan dalam pembentukan atau penggunaan kata.
+
+Beberapa contoh:
+
+1. Kesalahan penggunaan imbuhan.
+
+Salah:
+merubah
+
+Bentuk yang baku:
+mengubah
+
+2. Penggunaan imbuhan yang tidak tepat.
+
+Salah:
+mensukseskan
+
+Bentuk yang baku:
+menyukseskan
+
+3. Penggunaan bentuk kata yang tidak tepat.
+
+Salah:
+merespon
+
+Bentuk yang baku:
+merespons
+
+4. Penggunaan imbuhan secara berlebihan.
+
+Contoh:
+
+Salah:
+diperbaiki kembali lagi
+
+Dalam konteks tertentu, bentuk tersebut dapat dibuat lebih efektif menjadi:
+
+diperbaiki kembali
+
+atau:
+
+diperbaiki lagi
+
+Kesalahan morfologis perlu diperhatikan karena dapat memengaruhi ketepatan penggunaan Bahasa Indonesia.
+
+AJ. ANALISIS MORFOLOGIS
+
+Analisis morfologis dilakukan dengan mengidentifikasi unsur pembentuk sebuah kata dan proses yang terjadi.
+
+Contoh 1:
+
+Kata: menulis
+
+Bentuk dasar: tulis
+
+Afiks: meN-
+
+Proses: afiksasi
+
+Hasil: menulis
+
+Makna: melakukan kegiatan menulis.
+
+Contoh 2:
+
+Kata: penulis
+
+Bentuk dasar: tulis
+
+Afiks: peN-
+
+Proses: afiksasi
+
+Hasil: penulis
+
+Makna: orang yang melakukan kegiatan menulis.
+
+Contoh 3:
+
+Kata: tulisan
+
+Bentuk dasar: tulis
+
+Afiks: -an
+
+Proses: afiksasi
+
+Hasil: tulisan
+
+Makna: sesuatu atau hasil yang ditulis.
+
+Contoh 4:
+
+Kata: buku-buku
+
+Bentuk dasar: buku
+
+Proses: reduplikasi
+
+Hasil: buku-buku
+
+Makna: lebih dari satu buku atau banyak buku.
+
+AK. CONTOH ANALISIS MORFOLOGIS DALAM KALIMAT
+
+Kalimat:
+
+"Para siswa sedang membaca buku di perpustakaan."
+
+Analisis:
+
+1. Para
+Berfungsi sebagai penanda jumlah atau kelompok.
+
+2. Siswa
+Merupakan bentuk dasar yang digunakan sebagai nomina.
+
+3. Sedang
+Menunjukkan aspek berlangsungnya kegiatan.
+
+4. Membaca
+Terdiri atas:
+meN- + baca
+
+Proses:
+afiksasi
+
+Kategori:
+verba
+
+Makna:
+melakukan kegiatan membaca.
+
+5. Buku
+Merupakan bentuk dasar berupa nomina.
+
+6. Di
+Merupakan kata depan.
+
+7. Perpustakaan
+Berasal dari bentuk:
+perpustakaan
+
+Kata tersebut berhubungan dengan bentuk dasar "pustaka" dan mengalami proses pembentukan kata.
+
+AL. PERBEDAAN MORFOLOGI DAN FONOLOGI
+
+Morfologi dan fonologi sama-sama merupakan cabang linguistik, tetapi objek kajiannya berbeda.
+
+Fonologi mempelajari bunyi bahasa.
+
+Morfologi mempelajari bentuk dan pembentukan kata.
+
+Contoh:
+
+Fonologi:
+mengkaji bunyi yang terdapat dalam kata "menulis".
+
+Morfologi:
+mengkaji struktur meN- + tulis.
+
+Jadi:
+
+Fonologi = bunyi bahasa.
+
+Morfologi = bentuk dan pembentukan kata.
+
+AM. PERBEDAAN MORFOLOGI DAN SINTAKSIS
+
+Morfologi:
+mempelajari struktur dan pembentukan kata.
+
+Sintaksis:
+mempelajari hubungan antarkata dalam frasa, klausa, dan kalimat.
+
+Contoh:
+
+Morfologi:
+menulis = meN- + tulis
+
+Sintaksis:
+Siswa menulis tugas.
+
+Morfologi membahas pembentukan kata "menulis", sedangkan sintaksis membahas fungsi kata "menulis" dalam kalimat.
+
+AN. PERBEDAAN MORFOLOGI DAN SEMANTIK
+
+Morfologi:
+mempelajari bentuk dan proses pembentukan kata.
+
+Semantik:
+mempelajari makna.
+
+Contoh:
+
+penulis
+
+Morfologi membahas:
+peN- + tulis
+
+Semantik membahas:
+makna "penulis" sebagai orang yang melakukan kegiatan menulis.
+
+AO. MANFAAT MEMPELAJARI MORFOLOGI
+
+Mempelajari morfologi memiliki banyak manfaat, antara lain:
+
+1. Memahami proses pembentukan kata.
+2. Mengetahui fungsi imbuhan.
+3. Mengetahui hubungan antara kata dasar dan kata turunan.
+4. Memahami perubahan makna kata.
+5. Memahami perubahan kategori kata.
+6. Mengurangi kesalahan pembentukan kata.
+7. Membantu menggunakan Bahasa Indonesia dengan tepat.
+8. Membantu menganalisis struktur kata.
+9. Mendukung kemampuan membaca dan menulis.
+10. Membantu dalam penelitian kebahasaan.
+11. Membantu memahami perkembangan kosakata.
+12. Membantu membedakan bentuk kata yang baku dan tidak baku.
+
+AP. MORFOLOGI DALAM PEMBELAJARAN BAHASA INDONESIA
+
+Dalam pembelajaran Bahasa Indonesia, materi morfologi dapat diterapkan melalui berbagai kegiatan.
+
+Contohnya:
+
+1. Mengidentifikasi kata dasar.
+2. Mencari kata berimbuhan.
+3. Mengelompokkan prefiks dan sufiks.
+4. Menentukan proses pembentukan kata.
+5. Mengidentifikasi kata ulang.
+6. Mengidentifikasi kata majemuk.
+7. Menganalisis perubahan makna.
+8. Membentuk kata baru dari kata dasar.
+9. Menemukan kesalahan penggunaan imbuhan.
+10. Menyunting kata dalam teks.
+
+Contoh kegiatan:
+
+Guru memberikan kata dasar "tulis".
+
+Siswa diminta membuat kata turunan.
+
+Jawaban:
+
+menulis
+menuliskan
+penulis
+penulisan
+tulisan
+tertulis
+
+Kemudian siswa menjelaskan proses pembentukannya.
+
+AQ. MORFOLOGI DALAM PENULISAN
+
+Pemahaman morfologi sangat membantu kegiatan menulis. Seorang penulis harus mampu memilih bentuk kata yang tepat sesuai konteks.
+
+Contoh:
+
+"Guru memberikan penjelasan kepada siswa."
+
+Kata "penjelasan" berkaitan dengan bentuk dasar "jelas" dan proses pembentukan kata.
+
+Jika penulis tidak memahami pembentukan kata, kesalahan bentuk dapat terjadi.
+
+Contoh:
+
+Salah:
+penjelasannya tentang materi itu sangat jelas sekali.
+
+Kalimat tersebut dapat diperbaiki berdasarkan kebutuhan konteks menjadi:
+
+Penjelasannya tentang materi itu sangat jelas.
+
+atau:
+
+Penjelasan tentang materi itu sangat jelas.
+
+AR. MORFOLOGI DALAM PENULISAN ILMIAH
+
+Morfologi penting dalam penulisan ilmiah karena karya ilmiah harus menggunakan bentuk kata yang tepat dan baku.
+
+Contoh:
+
+Salah:
+Penelitian ini bertujuan untuk mengetahui pengaruh model pembelajaran terhadap kemampuan menulis siswa.
+
+Kalimat tersebut sebenarnya sudah baik.
+
+Namun, dalam penyuntingan ilmiah, penulis tetap perlu memperhatikan:
+
+1. Ketepatan imbuhan.
+2. Ketepatan bentuk kata.
+3. Konsistensi istilah.
+4. Kejelasan makna.
+5. Kebakuan kata.
+6. Keefektifan penggunaan kata.
+
+Kata yang digunakan dalam karya ilmiah harus sesuai dengan konteks dan kaidah Bahasa Indonesia.
+
+AS. RANGKUMAN MORFOLOGI
+
+Morfologi adalah cabang linguistik yang mempelajari bentuk, struktur, dan proses pembentukan kata.
+
+Objek utama morfologi meliputi morfem, morf, alomorf, kata, dan proses morfologis.
+
+Morfem merupakan satuan gramatikal terkecil yang memiliki makna atau fungsi gramatikal.
+
+Morfem dapat dibedakan menjadi morfem bebas dan morfem terikat.
+
+Proses pembentukan kata dalam Bahasa Indonesia terutama meliputi:
+
+1. Afiksasi.
+2. Reduplikasi.
+3. Komposisi.
+
+Afiksasi merupakan proses penambahan imbuhan pada bentuk dasar.
+
+Jenis afiks meliputi:
+
+1. Prefiks.
+2. Sufiks.
+3. Infiks.
+4. Konfiks.
+5. Kombinasi afiks.
+
+Reduplikasi merupakan proses pengulangan bentuk dasar.
+
+Komposisi merupakan proses penggabungan dua kata atau lebih yang membentuk satu kesatuan makna tertentu.
+
+Morfologi juga berkaitan dengan morfofonemik, yaitu perubahan bunyi yang terjadi dalam proses pembentukan kata.
+
+AT. KESIMPULAN
+
+Morfologi merupakan salah satu cabang penting dalam linguistik yang mempelajari bentuk kata dan proses pembentukan kata. Melalui morfologi, kita dapat memahami bahwa kata-kata dalam Bahasa Indonesia tidak selalu muncul dalam bentuk yang tetap. Kata dapat mengalami berbagai proses sehingga menghasilkan bentuk dan makna yang berbeda.
+
+Contohnya, bentuk dasar "ajar" dapat menghasilkan kata "belajar", "mengajar", "pelajar", "pengajar", "pelajaran", dan "pengajaran". Bentuk-bentuk tersebut memiliki hubungan, tetapi masing-masing mempunyai fungsi dan makna yang berbeda.
+
+Pemahaman terhadap morfologi sangat penting dalam penggunaan Bahasa Indonesia karena membantu seseorang memahami penggunaan imbuhan, kata ulang, kata majemuk, perubahan kategori kata, dan perubahan makna. Selain itu, pemahaman morfologi juga dapat mengurangi kesalahan dalam penggunaan kata, baik dalam komunikasi sehari-hari maupun dalam tulisan akademik.
+
+Morfologi juga memiliki hubungan erat dengan cabang linguistik lainnya, terutama fonologi, sintaksis, dan semantik. Dalam pembentukan kata, perubahan bentuk dapat berkaitan dengan perubahan bunyi, fungsi dalam kalimat, maupun makna.
+
+Dengan demikian, mempelajari morfologi bukan hanya mempelajari bagaimana sebuah kata dibentuk, tetapi juga memahami hubungan antara bentuk, fungsi, dan makna kata dalam Bahasa Indonesia.
+
+
+

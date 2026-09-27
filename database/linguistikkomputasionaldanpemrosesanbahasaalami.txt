@@ -1,0 +1,68 @@
+LINGUISTIK KOMPUTASIONAL DAN PEMROSESAN BAHASA ALAMI
+
+==================================================
+HAKIKAT LINGUISTIK KOMPUTASIONAL DAN NLP
+==================================================
+
+Linguistik Komputasional (Computational Linguistics) adalah cabang ilmu interdisipliner yang menggabungkan linguistik, ilmu komputer, dan kecerdasan buatan (AI) untuk memodelkan bagaimana bahasa manusia bekerja secara sistematis menggunakan komputer.
+
+Pemrosesan Bahasa Alami (Natural Language Processing / NLP) adalah sub-bidang dari kecerdasan buatan yang berfokus pada pengembangan algoritma dan sistem perangkat lunak agar komputer mampu memahami, menafsirkan, memanipulasi, dan menghasilkan bahasa manusia (bahasa alami) secara otomatis dan kontekstual.
+
+
+==================================================
+HUBUNGAN LINGUISTIK DAN ILMU KOMPUTER
+==================================================
+
+Interaksi dua disiplin ilmu ini memadukan pemahaman struktur kebahasaan dengan kekuatan pemrosesan komputasi:
+
+- Sisi Linguistik: Menyediakan pengetahuan teoritis mengenai aturan tata bahasa, struktur suara (fonologi), bentuk kata (morfologi), susunan kalimat (sintaksis), serta makna kata dan teks (semantik dan pragmatik).
+- Sisi Komputasional: Menyediakan teknik algoritma, model statistik, struktur data, serta arsitektur jaringan saraf tiruan (Neural Networks) untuk mengolah data teks dan suara berukuran masif.
+
+
+==================================================
+TAHAPAN PEMROSESAN LINGUISTIK DALAM NLP
+==================================================
+
+Komputer mengurai data teks manusia melalui beberapa tingkatan analisis kebahasaan secara hierarkis:
+
+- Analisis Morfologis dan Pra-pemrosesan Teks: Memecah teks menjadi unit-unit terkecil (tokenisasi), menghapus kata-kata umum yang tidak berpengaruh (stopword removal), serta mengembalikan kata ke bentuk dasarnya (stemming dan lematisasi).
+- Analisis Sintaktis (Parsing): Menganalisis struktur tata bahasa dan hubungan antar-kata dalam kalimat untuk membangun pohon sintaksis (parse tree).
+- Analisis Semantis: Menentukan makna logis dari kata atau frasa serta menyelesaikan ambiguitas makna kata berdasarkan konteks kalimat (Word Sense Disambiguation / WSD).
+- Analisis Pragmatik dan Wacana: Memahami tujuan komunikasi di balik tuturan, acuan rujukan kata ganti (co-reference resolution), serta implikatur konteks wacana secara utuh.
+
+
+==================================================
+PENDEKATAN DALAM PEMROSESAN BAHASA ALAMI
+==================================================
+
+Evolusi metode pemrosesan teks dalam sejarah komputer mengalami beberapa tahap pendekatan:
+
+- Pendekatan Berbasis Aturan (Rule-Based Approach): Menggunakan aturan tata bahasa dan kamus yang ditulis secara manual oleh ahli linguistik. Pendekatan ini sangat presisi tetapi kaku dan sulit dikembangkan untuk skala besar.
+- Pendekatan Statistik dan Pembelajaran Mesin (Statistical & Machine Learning): Menggunakan algoritma probabilitas statistik untuk mempelajari pola kebahasaan dari data korpus teks dalam jumlah besar.
+- Pendekatan Pembelajaran Mendalam (Deep Learning): Memanfaatkan arsitektur Jaringan Saraf Tiruan (seperti Recurrent Neural Networks / RNN dan Transformer) yang mampu mempelajari representasi fitur bahasa secara mandiri dari data masif tanpa perlu pembuatan fitur manual.
+
+
+==================================================
+APLIKASI UTAMA NLP DAN LINGUISTIK KOMPUTASIONAL
+==================================================
+
+Penerapan NLP telah menjadi tulang punggung berbagai teknologi digital modern:
+
+- Penerjemahan Mesin (Machine Translation): Sistem otomatis yang menerjemahkan teks atau suara dari satu bahasa ke bahasa lain (misal: Google Translate, DeepL).
+- Analisis Sentimen (Sentiment Analysis): Mengidentifikasi polarisasi opini, emosi, atau nada emosional dalam ulasan produk, komentar media sosial, atau berita.
+- Ekstraksi Informasi dan NER (Named Entity Recognition): Mengidentifikasi dan mengelompokkan entitas penting di dalam teks (seperti nama orang, lokasi, organisasi, atau tanggal).
+- Pengenalan dan Sintesis Suara (Speech Recognition & Speech Synthesis): Mengubah suara lisan menjadi teks (Speech-to-Text) dan memproduksi suara artifisial dari teks (Text-to-Speech).
+- Asisten Virtual dan Chatbot: Sistem percakapan interaktif berbasis teks atau suara yang mampu menjawab pertanyaan dan membantu tugas pengguna secara dinamis.
+- Model Bahasa Besar (Large Language Models / LLM): Model AI skala raksasa yang dilatih menggunakan miliaran teks untuk melakukan penulisan kreatif, penyimpulan dokumen, coding, dan penalaran logis berbasis teks.
+
+
+==================================================
+TANTANGAN UTAMA DALAM PEMROSESAN BAHASA ALAMI
+==================================================
+
+Mengajarkan komputer untuk memahami bahasa manusia menghadapi sejumlah hambatan utama:
+
+- Ambiguitas Bahasa: Satu kata atau kalimat dapat memiliki banyak makna tergantung pada konteks pemakaian atau intonasi tuturan.
+- Keterbatasan Bahasa Berdaya Rendah (Low-Resource Languages): Banyak bahasa daerah di dunia yang kekurangan data digital mentah (korpus) untuk melatih model NLP modern.
+- Bahasa Gaul, Sarkasme, dan Idiom: Ragam bahasa tidak baku, ejaan tidak standar, majas ironi, serta ungkapan idiomatik sangat sulit ditafsirkan secara harfiah oleh algoritma komputer.
+- Nuansa Budaya dan Konteks Sosial: Bahasa membawa norma budaya lokal yang tersirat, yang memerlukan pemahaman konteks luar teks untuk dapat diinterpretasikan secara akurat oleh sistem AI.

@@ -1,0 +1,215 @@
+SINTAKSIS
+
+A. PENGERTIAN SINTAKSIS
+
+Sintaksis merupakan salah satu cabang ilmu bahasa yang membahas cara kata disusun dan dihubungkan menjadi satuan bahasa yang lebih besar, seperti frasa, klausa, kalimat, dan wacana. Sintaksis tidak hanya melihat kata secara terpisah, tetapi memperhatikan hubungan antarkata dalam suatu konstruksi sehingga menghasilkan makna dan fungsi tertentu. Dengan demikian, pembahasan sintaksis berkaitan erat dengan bagaimana penutur menyusun unsur-unsur bahasa agar dapat menyampaikan pikiran, gagasan, informasi, pertanyaan, perintah, maupun perasaan secara jelas.
+
+Dalam bahasa Indonesia, sintaksis menjadi bagian penting karena sebuah kata belum tentu dapat menyampaikan maksud secara lengkap apabila berdiri sendiri. Kata "membaca", misalnya, hanya menunjukkan suatu kegiatan. Ketika kata tersebut disusun menjadi "Sinta membaca buku", terbentuklah sebuah konstruksi yang lebih lengkap karena terdapat hubungan antara Sinta sebagai pelaku, membaca sebagai kegiatan, dan buku sebagai sesuatu yang dikenai kegiatan. Hubungan tersebut merupakan salah satu hal yang dikaji dalam sintaksis.
+
+Sintaksis juga membahas aturan atau pola yang memungkinkan unsur bahasa disusun secara tepat. Susunan "Rina membeli buku" dapat dipahami dengan baik, sedangkan susunan yang tidak sesuai dengan pola bahasa Indonesia dapat menimbulkan ketidakjelasan. Oleh karena itu, sintaksis membantu menjelaskan mengapa suatu susunan kata dianggap benar, kurang tepat, atau memiliki makna yang berbeda ketika urutannya diubah.
+
+B. RUANG LINGKUP SINTAKSIS
+
+Ruang lingkup sintaksis meliputi beberapa satuan kebahasaan, yaitu kata sebagai unsur pembentuk, frasa, klausa, kalimat, dan hubungan antarsatuan tersebut. Sintaksis terutama berfokus pada bagaimana unsur-unsur tersebut membentuk struktur yang lebih besar.
+
+1. Kata
+Kata merupakan satuan bahasa yang dapat menjadi unsur dalam konstruksi sintaksis. Dalam sintaksis, kata tidak hanya dipelajari berdasarkan bentuknya, tetapi juga berdasarkan fungsi dan kedudukannya dalam kalimat. Sebuah kata dapat memiliki fungsi yang berbeda sesuai dengan konteks. Misalnya, kata "jalan" dapat menjadi subjek dalam "Jalan itu rusak" atau menjadi bagian dari predikat dalam "Mereka jalan bersama".
+
+2. Frasa
+Frasa adalah gabungan dua kata atau lebih yang tidak memiliki hubungan predikatif. Artinya, frasa tidak mempunyai pasangan subjek-predikat seperti klausa. Contohnya adalah "rumah besar", "sangat indah", "di sekolah", dan "tiga orang siswa". Dalam frasa "rumah besar", unsur "rumah" menjadi inti dan "besar" menjadi unsur yang menerangkan inti.
+
+3. Klausa
+Klausa merupakan satuan sintaksis yang sekurang-kurangnya memiliki predikat dan berpotensi menjadi kalimat. Contohnya "adik belajar", "ibu memasak", dan "mereka datang". Klausa dapat berdiri sendiri sebagai kalimat apabila memenuhi syarat tertentu, tetapi dapat pula menjadi bagian dari kalimat yang lebih kompleks.
+
+4. Kalimat
+Kalimat merupakan satuan sintaksis yang digunakan untuk menyampaikan pikiran atau informasi yang relatif lengkap. Kalimat memiliki struktur dan intonasi tertentu dalam bahasa lisan serta biasanya ditandai dengan tanda baca dalam bahasa tulis. Contohnya adalah "Mahasiswa itu sedang membaca buku di perpustakaan."
+
+5. Wacana
+Wacana merupakan satuan bahasa yang lebih besar dan terdiri atas kalimat-kalimat yang saling berhubungan sehingga membentuk suatu kesatuan makna. Meskipun wacana sering menjadi kajian bidang lain, hubungan antarkalimat dalam wacana tetap berkaitan dengan struktur sintaksis.
+
+C. FRASA
+
+Frasa adalah gabungan dua kata atau lebih yang bersifat nonpredikatif. Nonpredikatif berarti gabungan tersebut tidak membentuk hubungan subjek dan predikat. Frasa memiliki unsur inti dan, dalam banyak kasus, unsur pewatas atau penjelas.
+
+Contoh:
+- rumah besar
+- buku bahasa Indonesia
+- sangat rajin
+- di dalam kelas
+- tiga orang siswa
+
+Berdasarkan kategori atau unsur intinya, frasa dapat dibedakan menjadi beberapa jenis.
+
+1. Frasa nominal
+Frasa nominal adalah frasa yang inti atau pusatnya berupa nomina. Contohnya "buku baru", "rumah siswa", "seorang guru", dan "pemandangan indah". Dalam "buku baru", kata "buku" menjadi inti, sedangkan "baru" menjadi pewatas.
+
+2. Frasa verbal
+Frasa verbal adalah frasa yang intinya berupa verba. Contohnya "sedang belajar", "akan pergi", "telah selesai", dan "sangat membantu". Frasa tersebut menunjukkan aktivitas atau keadaan yang berhubungan dengan verba.
+
+3. Frasa adjektival
+Frasa adjektival adalah frasa yang intinya berupa kata sifat. Contohnya "sangat indah", "cukup sulit", "lebih tinggi", dan "paling baik".
+
+4. Frasa adverbial
+Frasa adverbial merupakan frasa yang berfungsi sebagai keterangan dan memiliki unsur inti berupa adverbia. Contohnya "sangat sering", "lebih dahulu", dan "paling lambat".
+
+5. Frasa preposisional
+Frasa preposisional merupakan frasa yang diawali oleh preposisi atau kata depan. Contohnya "di sekolah", "ke pasar", "dari rumah", dan "untuk mahasiswa". Frasa ini umumnya berfungsi sebagai keterangan, meskipun fungsi tersebut bergantung pada konstruksi kalimat.
+
+D. KLAUSA
+
+Klausa adalah satuan sintaksis yang memiliki hubungan predikatif. Unsur yang paling penting dalam klausa adalah predikat. Klausa dapat diklasifikasikan berdasarkan berbagai sudut pandang.
+
+Berdasarkan kelengkapan unsur, terdapat klausa lengkap dan klausa tidak lengkap. Klausa lengkap mempunyai unsur yang relatif lengkap, sedangkan klausa tidak lengkap dapat kehilangan salah satu unsur karena konteks sudah membantu memahami maksudnya.
+
+Berdasarkan jumlah predikatnya, klausa dapat berupa klausa tunggal dan klausa majemuk. Klausa tunggal memiliki satu predikat, sedangkan klausa majemuk memiliki lebih dari satu predikat.
+
+Berdasarkan kategori predikat, klausa dapat berupa klausa verbal, klausa nominal, klausa adjektival, klausa numeral, dan klausa preposisional. Contohnya:
+- "Dina membaca buku." merupakan klausa verbal.
+- "Ayah seorang guru." merupakan klausa nominal.
+- "Cuaca sangat panas." merupakan klausa adjektival.
+- "Pesertanya dua puluh orang." merupakan klausa numeral.
+- "Buku itu di atas meja." dapat dipahami sebagai konstruksi dengan unsur preposisional yang menduduki posisi predikatif.
+
+E. KALIMAT
+
+Kalimat merupakan konstruksi sintaksis yang dapat digunakan untuk menyampaikan informasi, pertanyaan, perintah, larangan, harapan, atau perasaan. Kalimat tersusun dari unsur-unsur yang memiliki fungsi tertentu.
+
+Unsur fungsi utama dalam kalimat bahasa Indonesia adalah subjek, predikat, objek, pelengkap, dan keterangan.
+
+1. Subjek
+Subjek merupakan unsur yang menjadi pokok pembicaraan atau yang diterangkan dalam kalimat. Subjek umumnya berupa nomina atau frasa nominal.
+
+Contoh:
+"Mahasiswa itu membaca buku."
+Subjeknya adalah "Mahasiswa itu".
+
+2. Predikat
+Predikat merupakan unsur yang menerangkan subjek. Predikat dapat berupa verba, adjektiva, nomina, numeralia, atau frasa tertentu.
+
+Contoh:
+"Mahasiswa itu membaca buku."
+Predikatnya adalah "membaca".
+
+3. Objek
+Objek merupakan unsur yang biasanya hadir setelah verba transitif dan menjadi sasaran tindakan. Objek dapat berubah menjadi subjek ketika kalimat aktif ditransformasikan menjadi kalimat pasif.
+
+Contoh:
+"Sinta membaca novel."
+Objeknya adalah "novel".
+Dalam bentuk pasif: "Novel dibaca Sinta."
+
+4. Pelengkap
+Pelengkap merupakan unsur yang melengkapi predikat dan berbeda dari objek. Pelengkap tidak selalu dapat menjadi subjek dalam konstruksi pasif.
+
+Contoh:
+"Dia menjadi ketua kelas."
+"Kepala sekolah menunjuk Rina sebagai ketua."
+Unsur "ketua kelas" atau "sebagai ketua" memberikan kelengkapan makna pada predikat.
+
+5. Keterangan
+Keterangan merupakan unsur yang memberikan informasi tambahan mengenai waktu, tempat, cara, tujuan, sebab, alat, dan sebagainya.
+
+Contoh:
+"Rina belajar di perpustakaan pada sore hari."
+"di perpustakaan" memberikan keterangan tempat, sedangkan "pada sore hari" memberikan keterangan waktu.
+
+F. POLA KALIMAT BAHASA INDONESIA
+
+Pola kalimat menunjukkan susunan fungsi sintaksis dalam sebuah kalimat. Beberapa pola yang umum digunakan adalah:
+
+1. S-P
+Contoh: "Adik tidur."
+Subjek = Adik; Predikat = tidur.
+
+2. S-P-O
+Contoh: "Rani membaca buku."
+Subjek = Rani; Predikat = membaca; Objek = buku.
+
+3. S-P-Pel
+Contoh: "Ayah menjadi guru."
+Subjek = Ayah; Predikat = menjadi; Pelengkap = guru.
+
+4. S-P-K
+Contoh: "Mereka belajar di kelas."
+Subjek = Mereka; Predikat = belajar; Keterangan = di kelas.
+
+5. S-P-O-K
+Contoh: "Rina mengerjakan tugas di rumah."
+Subjek = Rina; Predikat = mengerjakan; Objek = tugas; Keterangan = di rumah.
+
+Pola tersebut bukan aturan yang membatasi semua kemungkinan kalimat bahasa Indonesia. Dalam penggunaan nyata, susunan kalimat dapat lebih kompleks karena adanya perluasan unsur, penggabungan klausa, atau perubahan posisi keterangan.
+
+G. KALIMAT BERDASARKAN JUMLAH KLAUSA
+
+1. Kalimat tunggal
+Kalimat tunggal hanya memiliki satu klausa utama.
+Contoh: "Mahasiswa membaca buku."
+
+2. Kalimat majemuk
+Kalimat majemuk memiliki dua klausa atau lebih. Klausa-klausa tersebut dapat dihubungkan menggunakan konjungsi atau hubungan tertentu.
+
+Kalimat majemuk setara menghubungkan klausa yang kedudukannya relatif sejajar.
+Contoh: "Rina membaca buku dan Sinta menulis tugas."
+
+Kalimat majemuk bertingkat terdiri atas klausa utama dan klausa yang bergantung pada klausa lainnya.
+Contoh: "Rina belajar karena besok ada ujian."
+
+Kalimat majemuk campuran mengandung gabungan hubungan setara dan bertingkat.
+Contoh: "Rina belajar karena besok ada ujian, dan Sinta menyiapkan buku."
+
+H. KALIMAT BERDASARKAN FUNGSI
+
+1. Kalimat deklaratif
+Kalimat deklaratif digunakan untuk menyampaikan pernyataan atau informasi.
+Contoh: "Kegiatan pembelajaran dimulai pukul delapan."
+
+2. Kalimat interogatif
+Kalimat interogatif digunakan untuk bertanya.
+Contoh: "Kapan kegiatan pembelajaran dimulai?"
+
+3. Kalimat imperatif
+Kalimat imperatif digunakan untuk memberikan perintah, permintaan, ajakan, atau larangan.
+Contoh: "Silakan buka buku halaman sepuluh."
+
+4. Kalimat eksklamatif
+Kalimat eksklamatif digunakan untuk mengungkapkan perasaan atau kekaguman.
+Contoh: "Indah sekali pemandangan itu!"
+
+I. HUBUNGAN SINTAKSIS DAN MAKNA
+
+Sintaksis memiliki hubungan erat dengan makna karena perubahan susunan unsur dapat memengaruhi penafsiran. Contohnya, "Ani memukul Budi" berbeda dengan "Budi memukul Ani". Kata-kata yang digunakan sama, tetapi hubungan sintaksisnya berbeda sehingga maknanya juga berbeda.
+
+Makna sebuah kalimat tidak hanya ditentukan oleh arti setiap kata, tetapi juga oleh hubungan antara kata-kata tersebut. Oleh sebab itu, analisis sintaksis membantu menjelaskan siapa yang melakukan tindakan, tindakan apa yang dilakukan, siapa yang dikenai tindakan, serta informasi tambahan seperti tempat dan waktu.
+
+J. ANALISIS SINTAKSIS
+
+Analisis sintaksis merupakan kegiatan menguraikan suatu konstruksi bahasa berdasarkan unsur, fungsi, kategori, dan hubungan antarnya. Dalam menganalisis kalimat, langkah yang dapat dilakukan adalah:
+1. Menentukan kalimat yang akan dianalisis.
+2. Memisahkan kalimat menjadi unsur-unsurnya.
+3. Menentukan fungsi setiap unsur, seperti S, P, O, Pel, dan K.
+4. Menentukan kategori atau kelas kata dari setiap unsur.
+5. Menentukan hubungan antarkomponen.
+6. Menentukan pola kalimat.
+7. Menjelaskan makna atau peran setiap unsur berdasarkan konteks.
+
+Contoh analisis:
+"Mahasiswa membaca novel di perpustakaan."
+
+Mahasiswa = Subjek, berkategori nomina.
+membaca = Predikat, berkategori verba.
+novel = Objek, berkategori nomina.
+di perpustakaan = Keterangan tempat, berkategori frasa preposisional.
+
+Pola kalimat tersebut adalah S-P-O-K.
+
+K. PERAN SINTAKSIS DALAM PEMBELAJARAN BAHASA
+
+Sintaksis memiliki peran penting dalam pembelajaran bahasa Indonesia karena membantu peserta didik memahami cara menyusun kalimat yang efektif dan mudah dipahami. Pemahaman sintaksis dapat digunakan untuk meningkatkan kemampuan berbicara dan menulis. Peserta didik dapat mengetahui bahwa penyusunan kalimat tidak cukup hanya dengan memilih kata yang benar, tetapi juga harus memperhatikan hubungan antarkata dan fungsi setiap unsur.
+
+Dalam kegiatan menulis, pemahaman sintaksis membantu peserta didik menyusun kalimat dengan struktur yang jelas. Dalam membaca, pemahaman sintaksis membantu peserta didik memahami hubungan antargagasan yang terdapat dalam sebuah kalimat. Sementara itu, dalam kegiatan menyunting, analisis sintaksis dapat digunakan untuk menemukan kalimat yang tidak efektif, unsur yang tidak lengkap, atau hubungan antarkomponen yang kurang tepat.
+
+L. SINTAKSIS DALAM KEHIDUPAN SEHARI-HARI
+
+Penggunaan sintaksis dapat ditemukan dalam komunikasi sehari-hari. Ketika seseorang menyampaikan pesan, bertanya, memberi informasi, atau memberikan instruksi, ia sebenarnya menggunakan struktur sintaksis. Kalimat "Tolong ambilkan buku di meja" mempunyai susunan yang membuat penerima pesan memahami tindakan yang diminta dan benda yang harus diambil.
+
+Kesalahan sintaksis dapat membuat pesan menjadi sulit dipahami atau menimbulkan penafsiran berbeda. Oleh karena itu, penguasaan sintaksis tidak hanya penting untuk kegiatan akademik, tetapi juga untuk komunikasi sehari-hari. Semakin baik seseorang memahami struktur bahasa, semakin mudah ia menyampaikan gagasan secara teratur, jelas, dan sesuai dengan konteks.

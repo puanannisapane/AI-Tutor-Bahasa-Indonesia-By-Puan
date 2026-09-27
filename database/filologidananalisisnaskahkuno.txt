@@ -1,0 +1,70 @@
+FILOLOGI DAN ANALISIS NASKAH KUNO
+
+==================================================
+HAKIKAT FILOLOGI
+==================================================
+
+Filologi adalah keilmuan linguistik dan kebudayaan yang mengkaji naskah-naskah kuno (manuskrip) untuk mengungkapkan isi, sejarah, makna, dan nilai-nilai budaya yang tersimpan di dalamnya. Filologi memandang naskah kuno sebagai dokumen tertulis yang rentan mengalami perubahan atau penyimpangan makna seiring dengan proses penyalinan yang dilakukan berulang kali dari waktu ke waktu.
+
+Tujuan utama filologi adalah menyajikan teks kuno dalam bentuk yang seotentik mungkin (mendekati bentuk aslinya) agar dapat dipahami dan dimanfaatkan oleh masyarakat modern.
+
+
+==================================================
+KONSEP PERBEDAAN NASKAH DAN TEKS
+==================================================
+
+Dalam tradisi filologi, terdapat pembedaan tegas antara wadah fisik dan isi dari suatu peninggalan tertulis:
+
+- Naskah (Manuscript / Codices): Wujud fisik atau benda peninggalan tulisan tangan yang membawa tulisan kuno, seperti lembaran daun lontar, kulit kayu, kertas daluang, atau perkamen.
+- Teks (Text): Isi kandungan, ide, wacana, atau pesan abstrak yang tertulis di dalam naskah tersebut. Sebuah teks yang sama bisa tersimpan di dalam beberapa naskah yang berbeda akibat proses penyalinan.
+
+
+==================================================
+KRITIK TEKS DAN PERUBAHAN TEKS
+==================================================
+
+Kritik teks adalah serangkaian metode ilmiah untuk menganalisis, menilai, dan memurnikan kesalahan-kesalahan yang terjadi pada teks akibat penyalinan berulang oleh para penyalin di masa lalu.
+
+Bentuk-bentuk penyimpangan teks (skriptorium):
+- Lakuna (Lacuna): Bagian teks yang hilang atau terhapus akibat kerusakan fisik naskah.
+- Ditografi: Kesalahan penyalin yang menuliskan kata atau kalimat yang sama sebanyak dua kali.
+- Haplografi: Kesalahan penyalin yang melewatkan atau membuang kata/kalimat yang seharusnya ditulis.
+- Metatesis: Perubahan atau pertukaran posisi huruf/kata dalam teks.
+- Substitusi: Penggantian suatu kata dengan kata lain oleh penyalin, baik secara sengaja (penyesuaian variasi lokal) maupun tidak sengaja.
+
+
+==================================================
+METODE KRITIK TEKS DALAM FILOLOGI
+==================================================
+
+Pilihan metode penanganan teks tergantung pada jumlah naskah yang ditemukan (naskah tunggal atau naskah jamak):
+
+- Metode Intuisi / Konjektur: Mengoreksi kesalahan teks pada naskah tunggal berdasarkan intuisi ilmiah dan pemahaman mendalam peneliti terhadap bahasa dan latar belakang sejarah naskah.
+- Metode Legenus (Stemmatologi): Menyusun pohon silsilah naskah (stemma codicum) berdasarkan perbandingan kesalahan umum untuk menemukan hubungan kekerabatan antar-naskah.
+- Metode Gabungan: Menggabungkan bacaan-bacaan terbaik dari beberapa naskah yang ada untuk menciptakan satu teks rekontruksi baru yang paling ideal.
+- Metode Landasan (Edisi Kritis): Memilih satu naskah terbaik yang dianggap paling lengkap sebagai naskah utama (landasan), sementara variasi bacaan dari naskah lain dicantumkan dalam aparat kritik di bagian bawah halaman.
+- Metode Diplomatik: Menyajikan kembali teks kuno secara persis sebagaimana adanya tanpa mengubah kesalahan ejaan atau memperbaiki tata bahasanya sama sekali.
+
+
+==================================================
+KODIKOLOGI DAN PALEOGRAFI
+==================================================
+
+Dua cabang ilmu bantu utama yang digunakan dalam analisis naskah kuno:
+
+Kodikologi:
+Ilmu yang mempelajari aspek fisik naskah kuno, seperti jenis bahan dasar naskah (kertas, lontar, kulit), umur bahan, watermarking (cap kertas), jilidan naskah, penjajaran halaman, serta kondisi pelapukan fisik naskah.
+
+Paleografi:
+Ilmu yang mempelajari jenis-jenis tulisan kuno dan perkembangan bentuk aksara dari masa ke masa. Paleografi berfungsi untuk membaca aksara kuno yang sulit diidentifikasi, menentukan penanggalan umur naskah berdasarkan gaya tulisan, serta mengenali gaya penulisan tangan dari penyalin tertentu.
+
+
+==================================================
+SUMBANGAN FILOLOGI BAGI ILMU PENGETAHUAN
+==================================================
+
+Kajian filologi memiliki kontribusi besar bagi rekonstruksi peradaban bangsa:
+
+- Pembuka Informasi Sejarah dan Kebudayaan: Mengungkap sistem pemerintahan, tradisi hukum, pengobatan tradisional, astrorologi, dan sastra masa lalu yang tersimpan dalam manuskrip.
+- Perkembangan Sejarah Bahasa: Menyediakan data empiris mengenai bentuk-bentuk bahasa kuno (seperti bahasa Melayu Kuno atau Jawa Kuna) sebagai bahan analisis linguistik historis.
+- Pelestarian Warisan Budaya Takbenda: Menyelamatkan ide-ide pemikiran leluhur agar tidak hilang tergerus zaman dan dapat ditransformasikan ke dalam media modern.

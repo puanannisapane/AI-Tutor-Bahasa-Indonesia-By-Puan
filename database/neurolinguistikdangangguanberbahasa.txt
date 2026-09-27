@@ -1,0 +1,63 @@
+NEUROLINGUISTIK DAN GANGGUAN BERBAHASA
+
+==================================================
+HAKIKAT NEUROLINGUISTIK
+==================================================
+
+Neurolinguistik adalah cabang ilmu interdisipliner yang menggabungkan linguistik dan neurosains (ilmu saraf) untuk mempelajari bagaimana otak manusia memproses, menyimpan, memproduksi, dan memahami bahasa. Neurolinguistik berfokus pada mekanisme fisiologis di dalam otak yang memungkinkan manusia memperoleh dan menggunakan kemampuan berbahasa.
+
+Kajian ini mencoba memetakan area-area spesifik pada otak (hemisfer dan korteks) yang bertanggung jawab atas berbagai aspek kebahasaan, mulai dari pemrosesan bunyi (fonologi), kata (morfologi), hingga makna dan wacana.
+
+
+==================================================
+AREA BAHASA UTAMA DALAM OTAK
+==================================================
+
+Kemampuan berbahasa manusia berpusat pada hemisfer kiri otak (pada mayoritas orang yang dominan tangan kanan), terutama di dua area utama:
+
+- Area Broca: Terletak di lobus frontalis hemisfer kiri. Bertanggung jawab atas artikulasi, produksi tuturan lisan/tulis, serta kelancaran pemrosesan tata bahasa (sintaksis).
+- Area Wernicke: Terletak di lobus temporalis hemisfer kiri. Bertanggung jawab atas pemahaman bahasa (komprehensi) dan interpretasi makna kata (semantik).
+- Fasciculus Arkuatus: Jalur serabut saraf yang menghubungkan Area Wernicke dan Area Broca, berfungsi menyampaikan data bahasa yang ditangkap dari pemahaman menuju pemrosesan produksi tuturan.
+
+
+==================================================
+HAKIKAT GANGGUAN BERBAHASA (AFASIA)
+==================================================
+
+Gangguan berbahasa (aphasia/afasia) adalah kondisi kerusakan atau gangguan pada fungsi berbahasa seseorang yang disebabkan oleh cedera atau kerusakan otak (seperti stroke, trauma kepala, tumor otak, atau penyakit degeneratif).
+
+Afasia harus dibedakan dari gangguan bicara (seperti gagap atau cedera pita suara), karena afasia merupakan kerusakan pada sistem simbolis dan kognitif bahasa di otak, bukan hanya masalah fisik pada organ artikulasi.
+
+
+==================================================
+JENIS-JENIS AFASIA UTAMA
+==================================================
+
+Afasia dikelompokkan berdasarkan lokasi kerusakan otak dan manifestasi gejala klinisnya:
+
+- Afasia Broca (Afasia Motorik / Non-Fluen): Penutur memahami ucapan orang lain dengan baik, tetapi sangat kesulitan dalam memproduksi ucapan lisan. Tuturannya terputus-putus, tidak lancar, serta sering mengabaikan kata tugas dan tata bahasa (tuturan agramatis).
+- Afasia Wernicke (Afasia Sensorik / Fluen): Penutur dapat berbicara dengan sangat lancar dan intonasi normal, tetapi isi tuturannya tidak masuk akal, penuh dengan kata buatan (neologisme), dan kesulitan memahami ucapan orang lain.
+- Afasia Konduksi: Penutur memiliki pemahaman dan produksi tuturan yang relatif baik, tetapi mengalami kesulitan luar biasa ketika diminta untuk mengulang kata atau kalimat yang baru saja didengarnya.
+- Afasia Global: Bentuk afasia paling berat akibat kerusakan luas pada area Broca dan Wernicke. Penderita kehilangan sebagian besar kemampuan memahami maupun memproduksi bahasa.
+
+
+==================================================
+GANGGUAN KELANCRAN DAN PERKEMBANGAN BAHASA
+==================================================
+
+Selain afasia akibat cedera otak pada orang dewasa, terdapat gangguan kebahasaan yang dialami sejak masa tumbuh kembang anak:
+
+- Dyslexia (Disleksia): Gangguan neurobiologis yang memengaruhi kemampuan membaca dan mengeja kata, di mana otak kesulitan menghubungkan simbol huruf dengan bunyi bahasanya.
+- Developmental Language Disorder (DLD) / Specific Language Impairment (SLI): Gangguan perkembangan bahasa pada anak tanpa disertai disabilitas intelektual, kerusakan pendengaran, atau trauma fisik.
+- Dysgraphia (Disgrafia): Kesulitan neurobiologis dalam mengekspresikan pikiran ke dalam bentuk tulisan tangan atau pemrosesan ejaan visual.
+
+
+==================================================
+METODE DAN TEKNOLOGI PENELITIAN NEUROLINGUISTIK
+==================================================
+
+Perkembangan keilmuan neurolinguistik modern sangat bergantung pada teknologi pemindaian dan perekaman aktivitas otak:
+
+- fMRI (Functional Magnetic Resonance Imaging): Mengukur aliran darah dan tingkat oksigen di area otak untuk melihat bagian mana yang aktif saat seseorang melakukan tugas kebahasaan tertentu.
+- EEG (Electroencephalography) / ERP (Event-Related Potentials): Mencatat aktivitas listrik di otak dengan resolusi waktu milidetik untuk mengamati bagaimana otak merespons kesalahan tata bahasa atau keanehan makna kata secara real-time.
+- PET (Positron Emission Tomography): Pemindaian metabolisme otak menggunakan pelacak radioaktif untuk melihat pemrosesan bahasa pada tingkat seluler.

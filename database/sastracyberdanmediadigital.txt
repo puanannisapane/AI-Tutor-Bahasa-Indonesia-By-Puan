@@ -1,0 +1,56 @@
+SASTRA CYBER DAN MEDIA DIGITAL
+
+==================================================
+HAKIKAT SASTRA CYBER DAN MEDIA DIGITAL
+==================================================
+
+Sastra Cyber (Cybersastra) dan Media Digital adalah fenomena kebudayaan dan estetika baru tempat karya sastra diciptakan, dipublikasikan, didistribusikan, serta dikonsumsi melalui perantara teknologi berbasis komputer, internet, dan platform media digital.
+
+Cybersastra memindahkan tumpuan kebudayaan tulisan berbasis kertas (print culture) menuju kebudayaan layar digital (screen culture), yang mengubah tidak hanya bentuk fisik teks tetapi juga pola interaksi antara pengarang, teks, dan pembaca.
+
+
+==================================================
+KARAKTERISTIK UTAMA SASTRA DIGITAL
+==================================================
+
+Perbedaan mendasar antara sastra konvensional berbasis cetak dan sastra yang lahir di ruang digital:
+
+- Hiperteks (Hypertextuality): Teks digital sering kali terhubung dengan tautan (link) yang memungkinkan pembaca melompati halaman, memilih alur cerita sendiri, atau membuka referensi silang secara tidak linear.
+- Multimodalitas: Karya sastra tidak hanya mengandalkan susunan kata-kata tertulis, melainkan memadukan teks dengan elemen visual (gambar, GIF, video), tata letak interaktif, musik latar, serta efek suara.
+- Aksesibilitas dan Demokratisasi: Proses penerbitan karya melompati sistem kurasi ketat dewan redaksi atau penerbit mayor, sehingga siapapun dapat memublikasikan karyanya secara bebas dan instan ke ruang publik global.
+- Kesementaraan dan Dinamika (Ephemeral & Fluid): Teks digital dapat terus diubah, disunting, diperbarui, atau bahkan dihapus oleh pengarangnya kapan saja setelah diunggah.
+
+
+==================================================
+PERGESERAN PERAN PENGARANG DAN PEMBACA
+==================================================
+
+Teknologi digital merevolusi hubungan tradisional antara pencipta dan penikmat sastra:
+
+- Pembaca Aktif (Prosumer): Pembaca dalam media digital tidak lagi pasif, melainkan dapat menjadi "co-author" yang ikut menentukan arah cerita melalui voting, komentar langsung pada baris teks, atau pengerjaan karya kolaboratif.
+- Interaktivitas Real-Time: Pengarang menerima umpan balik, kritik, dan apresiasi secara langsung dari pembaca tepat pada saat karya tersebut diunggah bab demi bab.
+- Lahirnya Fiksi Penggemar (Fanfiction): Komunitas pembaca yang mengambil karakter, latar, atau dunia dari karya populer untuk menulis ulang cerita versi mereka sendiri di platform digital.
+
+
+==================================================
+RAGAM BENTUK DAN PLATFORM SASTRA CYBER
+==================================================
+
+Berbagai platform digital melahirkan bentuk-bentuk ekspresi dan genre baru dalam kesastraan:
+
+- Platform Web Novel / Cerita Bersambung: Layanan seperti Wattpad, Webnovel, atau aplikasi baca digital yang memfasilitasi penulisan cerita bersambung lintas sub-genre (romansa, fantasi, misteri).
+- Sastra Media Sosial: Pemanfaatan akun media sosial (Twitter/X, Instagram, TikTok) untuk menuliskan cerita micro-fiction, komik strip, thread fiksi, atau puisi tipografi (sering disebut Insta-poet).
+- Novel Grafis Digital dan Webtoon: Penggabungan elemen sastra naratif dengan seni komik berurutan secara vertikal yang dirancang khusus untuk dibaca melalui layar ponsel pintar.
+- Fiksi Interaktif dan Game Narrative: Karya fiksi berwujud perangkat lunak atau game berbasis teks (seperti pilihan petualangan) di mana keputusan pembaca menentukan ending cerita secara sistematis.
+
+
+==================================================
+KRITIK DAN TANTANGAN DALAM CYBERSASTRA
+==================================================
+
+Perkembangan cepat sastra digital memicu berbagai perdebatan teoretis dan pragmatis:
+
+- Masalah Kualitas dan Kanonisasi: Kebebasan publikasi tanpa filter editor sering dianggap menurunkan mutu estetika, menghasilkan redundansi tema populer yang seragam, atau memicu maraknya plagiarisme.
+- Komodifikasi dan Algoritma: Algoritma platform digital sering kali memaksakan pengarang untuk menulis demi memenuhi metrik (jumlah klik, suka, dan tren pasar) ketimbang kedalaman keutuhan karya.
+- Hak Cipta dan Pelanggaran Digital: Pembajakan karya, penggandaan tanpa izin, dan penyalahgunaan teks digital yang sulit dikontrol oleh sistem hukum konvensional.
+- Integrasi Kecerdasan Buatan (AI): Kemunculan model bahasa besar (Generative AI) yang mampu menghasilkan puisi dan prosa secara otomatis, memicu perdebatan etik mengenai batas-batas orisinalitas dan kreativitas manusia.

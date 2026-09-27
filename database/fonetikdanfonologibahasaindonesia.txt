@@ -1,0 +1,138 @@
+FONETIK DAN FONOLOGI BAHASA INDONESIA
+==================================================
+HAKIKAT FONETIK DAN FONOLOGI
+==================================================
+
+Fonetik dan fonologi merupakan dua cabang keilmuan linguistik yang berfokus pada kajian bunyi bahasa. Fonetik mempelajari bagaimana bunyi-bunyi bahasa dihasilkan oleh alat ucap manusia, ditransmisikan melalui udara, dan diterima oleh indra pendengaran tanpa memperhatikan fungsi bunyi tersebut sebagai pembeda makna. Sementara itu, fonologi berfokus pada sistem bunyi dalam suatu bahasa tertentu serta mengkaji apakah perbedaan bunyi dapat membedakan makna kata.
+
+Dalam kajian linguistik, fonetik dibagi menjadi tiga cabang utama:
+- Fonetik Artikulatoris: Mempelajari mekanisme alat-alat ucap manusia dalam menghasilkan bunyi bahasa.
+- Fonetik Akustik: Mempelajari sifat-sifat fisik bunyi bahasa sebagai gelombang suara yang merambat di udara.
+- Fonetik Auditoris: Mempelajari bagaimana organ pendengaran dan otak manusia menerima serta mempersepsi bunyi bahasa.
+
+Fonologi bekerja pada tingkat abstrak, mengidentifikasi unit bunyi terkecil yang disebut fonem. Fonem adalah satuan bunyi bahasa terkecil yang mampu menunjukkan kontras dan membedakan makna kata.
+
+
+==================================================
+ALAT UCAP DAN MEKANISME ARTIKULASI
+==================================================
+
+Produksi bunyi bahasa melibatkan kerja sama antara arus udara, pita suara, dan alat-alat ucap (artikulator). Arus udara umumnya berasal dari paru-paru yang dihembuskan keluar (efusif/egresif), melewati tenggorokan, dan keluar melalui rongga mulut atau rongga hidung.
+
+Komponen utama pembentukan bunyi:
+- Artikulator Aktif: Organ tubuh yang bergerak aktif untuk membentuk bunyi, seperti lidah (ujung, depan, belakang) dan bibir bawah.
+- Artikulator Pasif: Organ tubuh yang diam dan menjadi sasaran sentuhan artikulator aktif, seperti gigi atas, gusi (alveolum), langit-langit keras (palatum), dan langit-langit lunak (velum).
+- Pita Suara: Ruang di tenggorokan (glotis) yang menentukan apakah suatu bunyi disuarakan atau tidak disuarakan. Jika pita suara bergetar rapat, dihasilkan bunyi bersuara. Jika pita suara terbuka lebar tanpa getaran, dihasilkan bunyi tak bersuara.
+
+
+==================================================
+KLASIFIKASI BUNYI VOKAL BAHASA INDONESIA
+==================================================
+
+Bunyi vokal adalah bunyi bahasa yang dihasilkan tanpa adanya rintangan atau penyempitan pada saluran suara. Arus udara keluar secara bebas dari rongga mulut.
+
+Kriteria klasifikasi vokal dalam bahasa Indonesia:
+
+Tinggi-Rendahnya Lidah:
+- Vokal Tinggi: Lidah diangkat mendekati langit-langit. Contoh: /i/ dan /u/.
+- Vokal Sedang: Lidah berada pada posisi menengah. Contoh: /e/, /ə/ (pepet), dan /o/.
+- Vokal Rendah: Lidah berada pada posisi paling bawah. Contoh: /a/.
+
+Bagian Lidah yang Bergerak:
+- Vokal Depan: Ujung dan badan lidah dinaikkan ke arah langit-langit keras. Contoh: /i/ dan /e/.
+- Vokal Tengah: Bagian tengah lidah dinaikkan. Contoh: /ə/ dan /a/.
+- Vokal Belakang: Pangkal lidah dinaikkan ke arah langit-langit lunak. Contoh: /u/ dan /o/.
+
+Bentuk Bibir:
+- Vokal Bundar: Bibir dibentuk membulat saat mengujarkan bunyi. Contoh: /u/ dan /o/.
+- Vokal Tak Bundar: Bibir terbentang lebar atau netral saat mengujarkan bunyi. Contoh: /i/, /e/, /ə/, dan /a/.
+
+
+==================================================
+KLASIFIKASI BUNYI KONSONAN BAHASA INDONESIA
+==================================================
+
+Bunyi konsonan adalah bunyi bahasa yang dihasilkan dengan adanya hambatan, penyempitan, atau rintangan terhadap arus udara yang keluar dari paru-paru.
+
+Pengelompokan konsonan berdasarkan tempat artikulasi:
+- Bilabial: Pertemuan antara bibir atas dan bibir bawah. Contoh: /p/, /b/, /m/, /w/.
+- Labiodental: Pertemuan antara gigi atas dan bibir bawah. Contoh: /f/, /v/.
+- Alveolar: Pertemuan antara ujung lidah dan gusi atas. Contoh: /t/, /d/, /n/, /s/, /r/, /l/.
+- Palatal: Pertemuan antara tengah lidah dan langit-langit keras. Contoh: /c/, /j/, /ñ/ (ny), /y/.
+- Velar: Pertemuan antara pangkal lidah dan langit-langit lunak. Contoh: /k/, /g/, /ŋ/ (ng).
+- Glotal: Hambatan atau celah yang terjadi pada pita suara. Contoh: /h/ dan hamzah /ʔ/.
+
+Pengelompokan konsonan berdasarkan cara artikulasi:
+- Hambat / Letupan (Plosif): Udara dihambat total lalu dilepaskan secara mendadak. Contoh: /p/, /b/, /t/, /d/, /k/, /g/.
+- Geseran (Frikatif): Udara dipaksa melewati celah sempit sehingga menimbulkan bunyi desis. Contoh: /s/, /f/, /h/, /z/, /x/.
+- Paduan (Afrikat): Udara dihambat lalu dilepaskan secara perlahan lewat celah sempit. Contoh: /c/, /j/.
+- Nasal (Sengau): Udara dihambat di rongga mulut dan dialirkan keluar melalui rongga hidung karena langit-langit lunak menurunkan diri. Contoh: /m/, /n/, /ñ/, /ŋ/.
+- Sampingan (Lateral): Udara keluar melalui kedua sisi lidah. Contoh: /l/.
+- Getar (Trill): Ujung lidah melakukan sentuhan berulang secara cepat pada gusi. Contoh: /r/.
+- Semi-vokal: Bunyi yang memiliki sifat antara vokal dan konsonan. Contoh: /w/, /y/.
+
+
+==================================================
+DIFTONG DAN KLUSTER (GUGUS KONSONAN)
+==================================================
+
+Diftong (Vokal Rangkap):
+Diftong adalah dua vokal berurutan yang diujarkan dalam satu hembusan napas dan berada dalam satu suku kata yang sama. Pergerakan artikulator terjadi secara kontinu dari posisi vokal pertama ke vokal kedua.
+Contoh diftong dalam bahasa Indonesia:
+- /ai/ pada kata 'santai', 'pandai'.
+- /au/ pada kata 'harimau', 'kerbau'.
+- /oi/ pada kata 'sepoi', 'amboi'.
+- /ei/ pada kata 'survei'.
+
+Kluster (Gugus Konsonan):
+Kluster adalah deretan dua konsonan atau lebih yang tergolong dalam satu suku kata yang sama dan diujarkan tanpa adanya vokal penengah.
+Contoh kluster dalam bahasa Indonesia:
+- /pr/ pada kata 'proklamasi'.
+- /str/ pada kata 'strategi'.
+- /kr/ pada kata 'kredit'.
+- /ks/ pada kata 'kompleks'.
+
+
+==================================================
+FONEM, ALOFON, DAN PASANGAN MINIMAL
+==================================================
+
+Pasangan Minimal (Minimal Pairs):
+Untuk menetapkan apakah suatu bunyi merupakan fonem mandiri dalam suatu bahasa, digunakan teknik pengujian pasangan minimal. Pasangan minimal adalah dua kata yang memiliki bentuk hampir identik dan hanya dibedakan oleh satu bunyi pada posisi yang sama, serta memiliki makna yang berbeda.
+Contoh:
+- Kata 'paku' dan 'baku' hanya dibedakan oleh bunyi [p] dan [b]. Perbedaan ini mengubah makna kata secara keseluruhan, sehingga /p/ dan /b/ terbukti merupakan fonem yang berbeda dalam bahasa Indonesia.
+- Kata 'tanggal' dan 'tinggal' membedakan /a/ dan /i/ sebagai fonem vokal yang terpisah.
+
+Alofon:
+Alofon adalah variasi realisasi bunyi dari suatu fonem yang sama akibat pengaruh lingkungan fonetis di sekitarnya. Variasi alofonis tidak menyebabkan perubahan makna kata.
+Contoh alofon dalam bahasa Indonesia:
+- Fonem /k/ memiliki alofon bunyi hambat lepas [k] pada posisi awal kata seperti 'kuda', namun direalisasikan sebagai alofon hamzah/letupan glotal [ʔ] pada posisi akhir suku kata seperti 'bapak' atau 'rakyat'.
+- Fonem /i/ direalisasikan sebagai vokal tertutup [i] pada suku kata terbuka seperti 'pipi', namun direalisasikan sebagai vokal agak terbuka [I] pada suku kata tertutup seperti 'batik'.
+
+
+==================================================
+UNSUR SUPRASEGMENTAL DAN PROSODI
+==================================================
+
+Bunyi bahasa tidak hanya terdiri dari urutan segmen vokal dan konsonan (unsur segmental), tetapi juga disertai oleh fitur prosodi atau unsur suprasegmental yang menempel pada segmen tersebut.
+
+Komponen suprasegmental:
+- Tekanan (Stress): Keras lemasnya pengujaran suatu suku kata. Dalam bahasa Indonesia standar, tekanan tidak bersifat fonemis (tidak membedakan makna kata).
+- Nada (Pitch): Tinggi rendahnya frekuensi suara saat mengucapkan bunyi.
+- Jangka (Quantity / Durasi): Panjang pendeknya pengujaran suatu bunyi atau suku kata.
+- Intonasi: Naik turunnya nada dalam rangkaian kalimat. Intonasi dalam bahasa Indonesia berperan penting membedakan jenis kalimat (kalimat berita, kalimat tanya, dan kalimat perintah).
+- Kesenyapan (Jungtur): Jeda atau perhentian sementara dalam arus ujaran yang menentukan batas antarfrasa atau antarklausa.
+
+
+==================================================
+PROSES-PROSES FONOLOGIS
+==================================================
+
+Dalam pertuturan cepat maupun proses pembentukan kata (morfofonemik), bunyi-bunyi bahasa sering kali mengalami perubahan akibat pengaruh lingkungan sekitarnya.
+
+Beberapa jenis proses fonologis:
+- Asimilasi: Perubahan bunyi menjadi serupa atau mirip dengan bunyi di dekatnya. Contoh: prefiks meN- berubah menjadi mem- ketika bertemu dengan kata dasar berawalan konsonan bilabial /p/ atau /b/ (meN- + baca -> membaca).
+- Disimilasi: Perubahan dua bunyi yang sama atau mirip menjadi berbeda. Contoh: kata 'ber- + ajar' berubah menjadi 'belajar' untuk menghindari perulangan bunyi /r/.
+- Nasalisasi: Proses peleburan bunyi konsonan awal kata dasar ke dalam bunyi nasal sejenis ketika mendapat imbuhan meN-. Contoh: meN- + tulis -> menulis.
+- Netralisasi: Hilangnya kontras antara dua fonem pada posisi tertentu.
+- Ovisi / Elisi: Penghilangan bunyi vokal atau konsonan untuk kemudahan pengucapan.

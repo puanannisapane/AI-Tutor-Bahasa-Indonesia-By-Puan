@@ -1,0 +1,93 @@
+PSIKOLINGUISTIK DAN PEMPROSESAN BAHASA
+
+==================================================
+HAKIKAT PSIKOLINGUISTIK
+==================================================
+
+Psikolinguistik adalah cabang ilmu antar-disiplin yang menggabungkan linguistik dan psikologi untuk mengkaji proses-proses mental yang terjadi saat manusia memperoleh, memahami, dan memproduksi bahasa. Kajian ini mengamati bagaimana struktur dan aturan bahasa diwakili serta diproses di dalam pikiran dan otak manusia.
+
+Jika linguistik murni berfokus pada struktur formal bahasa (seperti bunyi, kata, dan kalimat), psikolinguistik berfokus pada mekanisme kognitif dan biologis yang memungkinkan manusia menggunakan bahasa dalam kehidupan sehari-hari.
+
+
+==================================================
+PEMERDEHAAN BAHASA ANGKATAN PERTAMA (ACQUISITION)
+==================================================
+
+Pemerolehan bahasa pertama (B1) merujuk pada proses alami anak-anak dalam menguasai bahasa ibu mereka tanpa pengajaran formal.
+
+Teori utama pemerolehan bahasa:
+- Nativisme: Berpandangan bahwa manusia lahir dengan kemampuan bawaan untuk berbahasa. Otak manusia dilengkapi dengan perangkat keras kognitif yang disebut Language Acquisition Device (LAD) yang memungkinkan anak memahami tata bahasa secara otomatis dari input yang terbatas.
+- Behaviorisme: Memandang pemerolehan bahasa sebagai bentuk pembentukan kebiasaan melalui mekanisme stimulus, respon, peniruan (imitasi), dan penguatan (reinforcement) dari lingkungan sekitar.
+- Interaksionisme / Kognitivisme: Menekankan bahwa perkembangan bahasa berinteraksi erat dengan perkembangan kognitif umum anak serta interaksi sosial dengan pengasuh atau orang dewasa.
+
+Tahapan umum pemerolehan bahasa anak:
+- Vokalisasi Awal: Tangisan, degukan (cooing), dan ocehan (babbling) yang menghasilkan bunyi vokal dan konsonan sederhana.
+- Tahap Satu Kata (Holoprastik): Anak menggunakan satu kata tunggal untuk mewakili satu ide atau kalimat utuh.
+- Tahap Dua Kata (Telegrafis): Anak mulai menggabungkan dua kata kunci tanpa kata tugas untuk menyampaikan pesan.
+- Tahap Kompleks: Anak mulai menguasai tata bahasa, imbuhan, dan struktur kalimat yang lebih rumit secara bertahap.
+
+
+==================================================
+PEMPROSESAN PERSEPSI DAN PEMAHAMAN BAHASA (COMPREHENSION)
+==================================================
+
+Pemahaman bahasa melibatkan proses dekoding pesan yang diterima dari bentuk fisik (gelombang suara atau simbol visual) menjadi makna mental.
+
+Proses persepsi dan dekoding pesan:
+- Persepsi Ujaran (Speech Perception): Mekanisme otak memilah arus bunyi yang kontinu menjadi segmen-segmen fonem, kata, dan batas antar-kata.
+- Pengenalan Kata (Word Recognition): Proses mencocokkan input bunyi atau visual dengan entitas kata yang tersimpan dalam memori jangka panjang (leksikon mental).
+- Pemprosesan Sintaksis (Parsing): Mekanisme kognitif menetapkan hubungan gramatikal antar kata dalam kalimat untuk membangun struktur makna (seperti menentukan subjek, predikat, dan objek).
+- Pemahaman Wacana: Mengintegrasikan makna antar-kalimat dan memanfaatkan pengetahuan latar belakang (skema) untuk memahami implikasi, konteks, dan inferensi pesan secara menyeluruh.
+
+
+==================================================
+PEMPROSESAN PRODUKSI BAHASA (PRODUCTION)
+==================================================
+
+Produksi bahasa adalah proses konversi ide, gagasan, atau niat komunikatif dari pikiran menjadi bentuk ujaran lisan atau tulisan.
+
+Tahapan utama dalam produksi ujaran:
+- Konseptualisasi: Pembentukan niat dan gagasan utama yang ingin disampaikan oleh pembicara di dalam pikiran.
+- Formulasi Leksikal dan Sintaksis: Pemilihan kata-kata yang sesuai dari leksikon mental serta penataan kata-kata tersebut ke dalam kerangka tata bahasa yang tepat.
+- Artikulasi: Pengiriman sinyal motorik dari otak ke organ-organ artikulasi (lidah, bibir, pita suara) untuk menghasilkan bunyi bahasa secara fisik.
+
+Fenomena gangguan produksi ujaran:
+- Fenomena Ujung Lidah (Tip-of-the-Tongue State): Keadaan ketika seseorang menyadari kata yang ingin diucapkan dan tahu maknanya, tetapi mengalami kesulitan sementara untuk mengingat bentuk bunyi/fonologis dari kata tersebut.
+- Slip of the Tongue (Kilas Lidah): Kekhilafan yang tidak disengaja dalam pengucapan kata atau bunyi, seperti pertukaran posisi fonem antar-kata, yang memberi petunjuk bagaimana otak mengorganisasi rencana tuturan sebelum diujarkan.
+
+
+==================================================
+LEKSIKON MENTAL (MENTAL LEXICON)
+==================================================
+
+Leksikon mental adalah perpustakaan kata internal yang tersimpan dalam memori manusia. Leksikon ini tidak hanya menyimpan daftar kata, tetapi juga informasi fonologis (bunyi), ortografis (ejaan), morfologis (struktur pembentukan kata), sintaktis (kategori kata), dan semantis (makna).
+
+Karakteristik leksikon mental:
+- Akses Cepat: Otak manusia mampu mengakses dan mengenali puluhan ribu kata dalam hitungan milidetik.
+- Asosiasi Jaringan: Kata-kata dalam leksikon mental saling terhubung berdasarkan hubungan makna (sinonim, antonim), hubungan bunyi, atau frekuensi penggunaan kata tersebut dalam kehidupan sehari-hari.
+- Efek Priming: Pengenalan terhadap suatu kata akan menjadi lebih cepat jika sebelumnya otak telah terpapar pada kata lain yang berkaitan secara makna.
+
+
+==================================================
+LANDASAN NEUROLOGIS BAHASA (NEUROLINGUISTIK)
+==================================================
+
+Bahasa diproses pada area spesifik di otak manusia, terutama pada hemisfer kiri bagi mayoritas individu.
+
+Area utama pemrosesan bahasa di otak:
+- Area Broca: Terletak di lobus frontalis kiri, berperan penting dalam perencanaan motorik artikulasi, produksi ujaran, serta pengolahan struktur sintaksis.
+- Area Wernicke: Terletak di lobus temporalis kiri, berperan penting dalam persepsi ujaran, pengolahan makna (semantik), dan pemahaman bahasa.
+- Arcuate Fasciculus: Jaringan jalur saraf yang menghubungkan Area Wernicke dan Area Broca untuk mengoordinasikan pemahaman dan produksi bahasa.
+
+
+==================================================
+GANGGUAN DAN PATOLOGI BERBAHASA
+==================================================
+
+Kajian psikolinguistik juga mencakup analisis terhadap kerusakan atau hambatan kognitif yang memengaruhi kemampuan berbahasa.
+
+Beberapa bentuk gangguan berbahasa:
+- Afasia Broca (Afasia Motorik): Gangguan produksi bahasa akibat kerusakan pada area Broca. Penderita memahami bahasa dengan baik, tetapi mengalami kesulitan besar dalam mengujarkan kata dan membentuk kalimat yang lancar (tuturan terputus-putus).
+- Afasia Wernicke (Afasia Sensorik): Gangguan pemahaman bahasa akibat kerusakan pada area Wernicke. Penderita dapat berbicara dengan lancar dan intonasi yang normal, tetapi kalimat yang dihasilkan tidak memiliki makna yang logis (omong kosong/jargon) dan sulit memahami ucapan orang lain.
+- Disleksia: Hambatan belajar kognitif yang memengaruhi kemampuan membaca, mengodekan simbol visual tulisan, dan mengeja.
+- Gagap (Stuttering): Hambatan kelancaran tuturan yang ditandai dengan pengulangan bunyi/suku kata, pemanjangan bunyi, atau bloking saat memproduksi ujaran.

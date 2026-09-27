@@ -1,0 +1,53 @@
+TEKNIK DUBBING DAN SUBTITLING
+
+==================================================
+HAKIKAT DUBBING DAN SUBTITLING
+==================================================
+
+Dubbing (Pengalihsuaraan) dan Subtitling (Penerjemahan Teks Film) adalah dua metode utama dalam lokalisasi media audiovisual untuk menyeberangi batasan bahasa dan budaya. Meskipun sama-sama bertujuan menyampaikan pesan dan jalan cerita dari bahasa sumber ke bahasa sasaran, keduanya menggunakan media ekspresi yang berbeda.
+
+Dubbing berfokus pada penggantian trek suara asli dengan rekaman suara pengisi suara (voice actor) dalam bahasa sasaran. Sementara Subtitling berfokus pada penyajian terjemahan tertulis di bagian bawah layar tanpa menghilangkan audio atau suara latar asli dari tayangan media.
+
+
+==================================================
+ELEMEN KUNCI TEKNIK DUBBING
+==================================================
+
+Aspek teknis dan artistik yang menentukan kualitas pengalihsuaraan:
+
+- Lip-Sync (Sinkronisasi Bibir): Proses menyesuaikan naskah terjemahan dan artikulasi pengisi suara agar gerakan bibir karakter di layar tampak selaras dengan vokal bahasa sasaran.
+- Modulasi Suara dan Akting Vokal: Kemampuan pengisi suara dalam menyampaikan emosi, intonasi, tempo, dan karakterisasi yang setara dengan penampil aslinya.
+- Pengisian Suara Latar (ADR / Automated Dialogue Replacement): Teknik perekaman ulang dialog di dalam studio kedap suara dengan standar mixing audio khusus untuk menjaga kejernihan vokal dan keseimbangan dengan efek suara (SFX) serta musik latar.
+
+
+==================================================
+PRINSIP TEKNIS DAN ATURAN SUBTITLING
+==================================================
+
+Pedoman teknis dalam pembuatan teks terjemahan visual agar nyaman dibaca oleh penonton:
+
+- Batasan Karakter (Character Limit): Batasan baku panjang teks subtitling yang umumnya berkisar antara 35 hingga 42 karakter per baris, dengan maksimal dua baris per kemunculan di layar.
+- Kecepatan Baca (Reading Speed / CPS): Perhitungan jumlah karakter per detik (Characters Per Second) untuk memastikan durasi tayang teks berbanding lurus dengan kemampuan membaca rata-rata penonton.
+- Aturan 2 Detik (Two-Second Rule): Durasi minimum kemunculan satu baris subtitle di layar agar penonton sempat membaca keseluruhan teks tanpa tergesa-gesa.
+- Posisional dan Kontras Teks: Penempatan subtitle secara konsisten di area aman layar (safe zone) menggunakan jenis huruf sans-serif yang jelas dengan outline atau latar belakang transparan untuk keterbacaan yang optimal.
+
+
+==================================================
+PENGALASAN NASKAH DAN LOKALISASI BAHASA
+==================================================
+
+Tantangan linguistik dalam mentransfer naskah antarbahasa:
+
+- Adaptasi Budaya: Penyesuaian idiom, humor, istilah teknis, atau referensi lokal agar dapat dipahami secara alami oleh audiens target tanpa merusak konteks cerita.
+- Kondensasi Teks (Text Condensation): Teknik meringkas dialog panjang tanpa menghilangkan inti informasi, yang sangat krusial dalam subtitling karena keterbatasan ruang layar dan waktu tayang.
+- Penggunaan Kode Waktu (Timecode / Spotting): Penetapan titik masuk (in-point) dan titik keluar (out-point) kemunculan teks subtitling yang selaras dengan perpindahan adegan (shot cut) dan ucapan pembicara.
+
+
+==================================================
+PERANGKAT LUNAK DAN FORMAT FILE AUDIOVISUAL
+==================================================
+
+Alat kerja digital yang digunakan dalam industri lokalisasi media:
+
+- Format File Subtitle: Jenis ekstensi file terjemahan yang umum digunakan seperti SRT (SubRip Text), VTT (Web Video Text Tracks), dan ASS (Advanced SubStation Alpha).
+- Perangkat Lunak Subtitling & Dubbing: Program khusus seperti Aegisub, Subtitle Edit, Pro Tools, dan Nuendo yang dilengkapi fitur gelombang suara (waveform) dan kontrol timecode presisi.

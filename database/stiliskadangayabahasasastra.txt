@@ -1,0 +1,72 @@
+STILISTIKA DAN GAYA BAHASA SASTRA
+
+==================================================
+HAKIKAT STILISTIKA
+==================================================
+
+Stilistika (Stylistics) adalah cabang ilmu interdisipliner antara linguistik dan studi sastra yang mengkaji pemanfaatan gaya bahasa (style) dalam karya sastra. Stilistika menganalisis bagaimana pengarang menggunakan perangkat kebahasaan secara khas untuk mencapai efek estetis, memperkuat ekspresi emosional, serta menyampaikan makna tersirat di dalam teks.
+
+Dalam studi sastra, stilistika menjembatani analisis intuitif terhadap keindahan karya dengan menyediakan kriteria dan metode analisis linguistik yang objektif dan terukur.
+
+
+==================================================
+OBJEK DAN RANAH ANALISIS STILISTIKA
+==================================================
+
+Analisis stilistika membedah teks sastra melalui berbagai tataran atau tingkatan kebahasaan:
+
+- Tataran Fonologi (Pola Bunyi): Mengkaji pemanfaatan asonansi (pengulangan bunyi vokal), aliterasi (pengulangan bunyi konsonan), rima, kofoni, dan euphony untuk membangun suasana atau nada puitis.
+- Tataran Leksikal (Pilihan Kata / Diksi): Menganalisis variasi kata yang dipilih pengarang, penggunaan kata arkaik, kata konkret vs abstrak, jargon, kata asing, serta kata berkonotasi khusus.
+- Tataran Gramatikal dan Sintaksis: Mengamati pola penyusunan kalimat, penggunaan kalimat tunggal vs majemuk, inversi (pembalikan urutan kata), atau penyimpangan struktur tata bahasa baku (lisensia poetika).
+- Tataran Semantik dan Majas: Membedah pemakaian gaya bahasa kiasan, metafora, serta pemindahan makna dari bentuk harfiah ke bentuk figuratif.
+- Tataran Grafologi (Format Visual): Mengamati aspek visual teks, seperti tata letak bait (tipografi), penggunaan tanda baca, pemfokusan huruf kapital, atau pemotongan baris (enjambemen).
+
+
+==================================================
+PEMVIASAN DAN PENYIMPANGAN BAHASA (DEVIASI)
+==================================================
+
+Salah satu konsep kunci dalam stilistika adalah pemikiran bahwa bahasa sastra sering kali melakukan penyimpangan dari norma bahasa sehari-hari demi menciptakan efek kesastraan (defamiliarisasi).
+
+Bentuk-bentuk deviasi bahasa dalam sastra:
+- Deviasi Leksikal: Penciptaan kata-kata baru yang tidak lazim dalam kamus baku (neologisme).
+- Deviasi Gramatikal: Pelanggaran sengaja terhadap kaidah tata bahasa resmi, seperti pengabaian subjek atau susunan kata yang dibolak-balik.
+- Deviasi Fonologis: Penyimpangan ejaan atau pengubahan bunyi kata untuk mengejar keselarasan rima.
+- Deviasi Dialektal: Penyerapan kosakata atau struktur tata bahasa dari dialek daerah tertentu ke dalam teks berbahasa standar.
+- Deviasi Semantis: Penggunaan kata-kata yang saling bertentangan secara makna harfiah (seperti oxymoron atau paradoks).
+
+
+==================================================
+KATEGORISASI GAYA BAHASA (MAJAS)
+==================================================
+
+Gaya bahasa atau majas adalah pemanfaatan kekayaan bahasa untuk memperoleh efek tertentu yang membuat teks menjadi lebih hidup dan berdaya pikat.
+
+Pengelompokan gaya bahasa utama:
+- Majas Perbandingan: Mengaitkan dua hal berdasarkan kesamaan sifat (contoh: Simile, Metafora, Personifikasi, Alegori).
+- Majas Pertentangan: Menyandingkan kata atau gagasan yang berlawanan untuk menciptakan penekanan kuat (contoh: Hiperbola, Litotes, Paradoks, Antitesis, Oksimoron).
+- Majas Sindiran: Menggunakan kata-kata untuk menyindir atau mengkritik secara halus maupun tajam (contoh: Ironi, Sinisme, Sarkasme).
+- Majas Penegasan / Pengulangan: Mengulang kata, frasa, atau struktur kalimat untuk memperkuat daya tegas ucapan (contoh: Repetisi, Anafora, Epistora, Pleonasme, Klimaks).
+
+
+==================================================
+FUNGSI DAN EFEK ESTETIS GAYA BAHASA
+==================================================
+
+Penggunaan gaya bahasa dalam sastra memiliki fungsi teoretis dan fungsional yang spesifik:
+
+- Membangun Suasana (Mood and Tone): Menghadirkan kesan tragis, romantis, mencekam, atau humoris melalui pilihan kata dan irama kalimat.
+- Karakterisasi Penokohan: Membedakan latar belakang sosial, tingkat pendidikan, dan kepribadian antar-tokoh melalui gaya tuturan khas (idiolek/sosiolek) yang mereka gunakan dalam dialog.
+- Intensifikasi Makna: Membantu pembaca membayangkan citraan indrawi (penglihatan, pendengaran, perabaan) secara konkret melalui asosiasi metaforis.
+- Mengkonststruksi Idiolek Pengarang: Menjadi penanda atau "sidik jari" gaya penulisan unik yang membedakan seorang pengarang dengan pengarang lainnya.
+
+
+==================================================
+METODOLOGI RESEARCH STILISTIKA
+==================================================
+
+Tahapan operasional dalam melaksanakan penelitian stilistika terhadap karya sastra:
+
+- Pengamatan Frekuensi Unsur Linguistik: Menghitung atau mengidentifikasi kemunculan pola-pola bahasa tertentu yang dominan atau tidak biasa dalam teks.
+- Interprestasi Fungsi Estetis: Menghubungkan temuan data linguistik tersebut dengan makna keseluruhan, tema, dan pesan moral karya sastra.
+- Pendekatan Stilistika Korpus: Menggunakan perangkat lunak komputasi untuk menganalisis frekuensi kata, kolokasi, dan pola gaya bahasa dalam skala korpus teks yang besar secara presisi.

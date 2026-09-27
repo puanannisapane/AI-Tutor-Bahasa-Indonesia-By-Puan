@@ -1,0 +1,72 @@
+LINGUISTIK KORPUS DAN ANALISIS DATA BAHASA
+
+==================================================
+HAKIKAT LINGUISTIK KORPUS
+==================================================
+
+Linguistik Korpus adalah metodologi dan pendekatan dalam ilmu kebahasaan yang menguji dan menganalisis penggunaan bahasa nyata melalui kumpulan teks digital yang terstruktur, berukuran sangat besar, dan mewakili penggunaan bahasa alami (korpus). 
+
+Berbeda dari pendekatan intuitif yang mengandalkan pemikiran subjektif penutur, linguistik korpus berpatokan pada data empiris untuk membuktikan bagaimana bahasa sebenarnya digunakan dalam konteks kehidupan sehari-hari, media massa, karya ilmiah, maupun percakapan lisan.
+
+
+==================================================
+KARAKTERISTIK DAN KRITERIA KORPUS BAHASA
+==================================================
+
+Sebuah kumpulan teks dapat dikategorikan sebagai korpus yang valid jika memenuhi kriteria berikut:
+
+- Empiris dan Otentik: Terdiri dari teks-teks nyata yang diucapkan atau ditulis oleh penutur asli dalam peristiwa komunikasi autentik, bukan kalimat buatan untuk contoh teori.
+- Keterwakilan (Representativeness): Komposisi teks di dalam korpus harus secara seimbang mewakili ragam bahasa, bidang isu, dan genre teks dari populasi bahasa yang diwakili.
+- Terstruktur dan Format Digital: Disimpan dalam format digital yang dapat dibaca, diindeks, dan diolah secara otomatis oleh perangkat lunak komputer.
+- Ukuran (Size): Memiliki jumlah kata (tokens) yang sangat besar, mulai dari jutaan hingga miliaran kata, agar mampu memberikan data statistik yang valid.
+
+
+==================================================
+JENIS-JENIS KORPUS BAHASA
+==================================================
+
+Pengelompokan korpus didasari oleh tujuan analisis dan karakteristik data kebahasaan yang dikumpulkan:
+
+- Korpus Umum (General Corpus): Kumpulan teks dari berbagai ragam dan topik yang dirancang untuk mewakili keseluruhan suatu bahasa (contoh: British National Corpus / BNC).
+- Korpus Khusus (Specialized Corpus): Kumpulan teks yang dibatasi pada bidang, konteks, atau kelompok penutur tertentu (misal: korpus artikel kedokteran, korpus hukum, atau korpus bahasa anak).
+- Korpus Sejajar (Parallel Corpus): Kumpulan teks asli dalam bahasa A beserta terjemahannya dalam bahasa B yang diselaraskan kalimat demi kalimat (sering digunakan dalam studi penerjemahan dan mesin penerjemah).
+- Korpus Pembelajar (Learner Corpus): Kumpulan teks lisan atau tulis yang dihasilkan oleh para pembelajar bahasa asing untuk menganalisis pola kesalahan atau perkembangan kebahasaan mereka.
+- Korpus Diakronis (Historical Corpus): Kumpulan teks dari berbagai rentang periode waktu yang berbeda untuk mengamati pergeseran dan perkembangan struktur bahasa dari masa ke masa.
+
+
+==================================================
+TEKNIK DAN ANOTASI KORPUS (CORPUS ANNOTATION)
+==================================================
+
+Anotasi korpus adalah proses menambahkan informasi linguistik ekstra ke dalam teks mentah agar dapat dianalisis secara komputasional.
+
+Bentuk-bentuk anotasi linguistik:
+- POS Tagging (Part-of-Speech Tagging): Penandaan kelas kata (nomina, verba, adjektiva, preposisi) pada setiap kata dalam korpus secara otomatis.
+- Lematisasi (Lemmatization): Proses mengelompokkan berbagai bentuk kata yang terinfleksi atau berimbuhan ke dalam bentuk kata dasarnya (lema).
+- Anotasi Sintaktis (Parsing): Penandaan hubungan fungsi gramatikal dan struktur frasa/kalimat di dalam teks.
+- Anotasi Semantis: Penandaan kategori makna, entitas bernama (Named Entity Recognition), atau peran semantis pada elemen kata.
+
+
+==================================================
+ALAT DAN TEKNIK ANALISIS DATA KORPUS
+==================================================
+
+Pengolahan data korpus menggunakan perangkat lunak analisis linguistik (seperti AntConc, Sketch Engine, atau Voyant Tools) melalui beberapa fitur utama:
+
+- Konkordansi (Concordance / KWIC): Menampilkan seluruh kemunculan suatu kata pencarian di tengah-tengah konteks kalimatnya (Key Word in Context) secara sejajar.
+- Kolokasi (Collocation): Analisis kecenderungan dua kata atau lebih untuk muncul berdampingan secara bersamaan dengan frekuensi statistik yang tinggi (kemunculan pasangan kata alami).
+- Frekuensi dan Daftar Kata (Word List): Menghitung jumlah total kemunculan setiap kata untuk mengetahui kosakata yang paling sering atau paling jarang digunakan.
+- Kata Kunci (Keywords): Membandingkan daftar kata dari satu korpus khusus dengan korpus umum untuk menemukan kata-kata khas yang menjadi ciri unik dari teks tersebut.
+- N-gram / Cluster: Analisis urutan kata yang berulang-ulang terdiri dari N kata (misal: 2-gram / bigram, 3-gram / trigram) untuk melihat frasa idiomatik atau formula tuturan.
+
+
+==================================================
+PENERAPAN LINGUISTIK KORPUS
+==================================================
+
+Metode pengolahan data korpus dimanfaatkan secara luas di berbagai bidang keilmuan linguistik terapan dan industri modern:
+
+- Leksikografi Modern: Menjadi basis utama tim penyusun kamus dalam menentukan makna kata aktual, contoh kalimat autentik, dan frekuensi penggunaan lema.
+- Pemrosesan Bahasa Alami (Natural Language Processing / NLP): Menyediakan data pelatihan (training data) untuk model kecerdasan buatan, mesin penerjemah (Machine Translation), dan analisis sentimen.
+- Linguistik Forensik: Membantu analisis penentuan penulis teks anonim (authorship attribution) dan pembuktian kasus plagiarisme melalui jejak gaya bahasa khas (idiolek).
+- Pengajaran Bahasa (Language Teaching): Membantu guru dan penyusun buku teks untuk mengajarkan pola pasangan kata (kolokasi) dan kosakata yang paling relevan dengan kebutuhan siswa.
