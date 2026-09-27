@@ -407,7 +407,7 @@ with st.sidebar:
 # =========================================================
 
 st.markdown(
-    '<div class="main-title">📚 AI Tutor Bahasa Indonesia</div>',
+    '<div class="main-title">📚 AI Tutor Bahasa Indonesia by Puan</div>',
     unsafe_allow_html=True,
 )
 
@@ -626,5 +626,5 @@ with tab_tentang:
 st.divider()
 
 st.caption(
-    "AI Tutor Bahasa Indonesia • Python + Streamlit + TXT Knowledge Base"
+    "AI Tutor Bahasa Indonesia ' Python + Streamlit + TXT Knowledge Base"
 )
